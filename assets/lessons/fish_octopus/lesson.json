@@ -1,0 +1,86 @@
+{
+  "id": "fish_octopus",
+  "title": {"en": "Fish & Octopus", "es": "Pez y pulpo", "pt": "Peixe e polvo", "fr": "Poisson et pieuvre", "de": "Fisch & Krake", "vi": "Cá & Bạch tuộc", "id": "Ikan & Gurita"},
+  "category": "sea",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FF8156",
+      "type": "fill",
+      "brush": 0.0565,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#00A5EC",
+      "type": "fill",
+      "brush": 0.0558,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#FE5E59",
+      "type": "fill",
+      "brush": 0.0369,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#8C65C5",
+      "type": "fill",
+      "brush": 0.029,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#F8C13C",
+      "type": "fill",
+      "brush": 0.0283,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FF8586",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_07",
+      "color": "#F7312F",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 1
+    }
+  ]
+}

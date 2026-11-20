@@ -1,0 +1,88 @@
+{
+  "id": "hellokitty_cupcake",
+  "title": {"en": "Hello Kitty's Cupcake", "es": "El cupcake de Hello Kitty", "pt": "O cupcake da Hello Kitty", "fr": "Le cupcake de Hello Kitty", "de": "Hello Kittys Cupcake", "vi": "Bánh cupcake của Hello Kitty", "id": "Cupcake Hello Kitty"},
+  "category": "hellokitty",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0267,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0267,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0267,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0267,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#FADA2B",
+      "type": "fill",
+      "brush": 0.0452,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#EC284A",
+      "type": "fill",
+      "brush": 0.0356,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#EC77A9",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FADA2B",
+      "type": "fill",
+      "brush": 0.0452,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#FADA2B",
+      "type": "fill",
+      "brush": 0.0452,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

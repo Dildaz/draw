@@ -1,0 +1,102 @@
+{
+  "id": "duo_melody_kuromi_cake",
+  "title": {"en": "Melody & Kuromi's Cake", "es": "El pastel de Melody y Kuromi", "pt": "O bolo de Melody e Kuromi", "fr": "Le gâteau de Melody et Kuromi", "de": "Melody & Kuromis Kuchen", "vi": "Bánh kem của Melody & Kuromi", "id": "Kue Melody & Kuromi"},
+  "category": "mymelody",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#EF80A0",
+      "type": "fill",
+      "brush": 0.0539,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#FDE3AF",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#E53B39",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#C6E6F8",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#F39FB7",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#F5A8BD",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#CAE6F5",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#E4454A",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#F39FB7",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0636,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 1
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "acorn_picnic",
+  "title": {"en": "Acorn Picnic", "es": "Picnic de bellotas", "pt": "Piquenique de bolotas", "fr": "Pique-nique de glands", "de": "Eichel-Picknick", "vi": "Dã ngoại hạt sồi", "id": "Piknik Biji Ek"},
+  "category": "nature",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#56B049",
+      "type": "fill",
+      "brush": 0.0531,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#FDD027",
+      "type": "fill",
+      "brush": 0.0296,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#BD7A39",
+      "type": "fill",
+      "brush": 0.0284,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#D57830",
+      "type": "fill",
+      "brush": 0.0299,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#56B049",
+      "type": "fill",
+      "brush": 0.0531,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#9B6630",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FED029",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#7B5227",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#4AA138",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#FDDFC1",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#FDDFC1",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_12",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0098,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0098,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

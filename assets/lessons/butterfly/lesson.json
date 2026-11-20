@@ -1,0 +1,65 @@
+{
+  "id": "butterfly",
+  "title": {"en": "Butterfly", "es": "Mariposa", "pt": "Borboleta", "fr": "Papillon", "de": "Schmetterling", "vi": "Con bướm", "id": "Kupu-kupu"},
+  "category": "nature",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#8756A3",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FF6C25",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0471,
+      "lane": 0
+    }
+  ]
+}

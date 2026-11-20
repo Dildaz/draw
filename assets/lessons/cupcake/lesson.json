@@ -1,0 +1,86 @@
+{
+  "id": "cupcake",
+  "title": {"en": "Happy Cupcake", "es": "Cupcake feliz", "pt": "Cupcake feliz", "fr": "Cupcake joyeux", "de": "Fröhlicher Cupcake", "vi": "Bánh cupcake vui vẻ", "id": "Cupcake Ceria"},
+  "category": "food",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0117,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0117,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0117,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0117,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0117,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FD6CB5",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FDDC04",
+      "type": "fill",
+      "brush": 0.0733,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#F81416",
+      "type": "fill",
+      "brush": 0.033,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#FDFDFD",
+      "type": "fill",
+      "brush": 0.0257,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#3FAB45",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "duo_kitty_melody_picnic",
+  "title": {"en": "Kitty & Melody Picnic", "es": "Picnic de Kitty y Melody", "pt": "Piquenique de Kitty e Melody", "fr": "Pique-nique de Kitty et Melody", "de": "Kitty & Melodys Picknick", "vi": "Kitty & Melody đi dã ngoại", "id": "Piknik Kitty & Melody"},
+  "category": "hellokitty",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#EF7F9F",
+      "type": "fill",
+      "brush": 0.0527,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#C78247",
+      "type": "fill",
+      "brush": 0.0272,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#F5A7B5",
+      "type": "fill",
+      "brush": 0.0252,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#F6AAB8",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#ED6A7C",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#E63A35",
+      "type": "fill",
+      "brush": 0.0281,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#E63A35",
+      "type": "fill",
+      "brush": 0.0281,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#E53834",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#EE6A7D",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#0367B2",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#9DA1A9",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_12",
+      "color": "#FDEC47",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 1
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

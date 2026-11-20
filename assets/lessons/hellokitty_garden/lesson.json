@@ -1,0 +1,88 @@
+{
+  "id": "hellokitty_garden",
+  "title": {"en": "Hello Kitty's Garden", "es": "El jardín de Hello Kitty", "pt": "O jardim da Hello Kitty", "fr": "Le jardin de Hello Kitty", "de": "Hello Kittys Garten", "vi": "Khu vườn của Hello Kitty", "id": "Kebun Hello Kitty"},
+  "category": "hellokitty",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#EE6DA1",
+      "type": "fill",
+      "brush": 0.0463,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#32A975",
+      "type": "fill",
+      "brush": 0.0378,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#EC284A",
+      "type": "fill",
+      "brush": 0.0344,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#32A975",
+      "type": "fill",
+      "brush": 0.0378,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#F9DA2A",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#1C98EA",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

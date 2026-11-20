@@ -1,0 +1,87 @@
+{
+  "id": "hot_spring_capybara",
+  "title": {"en": "Capybara Hot Spring", "es": "Capibara en aguas termales", "pt": "Capivara na fonte termal", "fr": "Capybara aux sources chaudes", "de": "Capybara im Thermalbad", "vi": "Chuột lang nước tắm suối nóng", "id": "Kapibara di Pemandian Air Panas"},
+  "category": "animal",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#CE8754",
+      "type": "fill",
+      "brush": 0.0764,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#85D9F8",
+      "type": "fill",
+      "brush": 0.0578,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#8D9196",
+      "type": "fill",
+      "brush": 0.0553,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#B1B2B4",
+      "type": "fill",
+      "brush": 0.0482,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#8D9196",
+      "type": "fill",
+      "brush": 0.0553,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#814F3A",
+      "type": "fill",
+      "brush": 0.0441,
+      "lane": 0
+    }
+  ],
+  "source": "ai"
+}

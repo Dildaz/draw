@@ -1,0 +1,108 @@
+{
+  "id": "flower_bees",
+  "title": {"en": "Flower Bees", "es": "Abejas con flor", "pt": "Abelhas da flor", "fr": "Abeilles à la fleur", "de": "Blumen-Bienen", "vi": "Ong & Bông hoa", "id": "Lebah Bunga"},
+  "category": "nature",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FDD94C",
+      "type": "fill",
+      "brush": 0.0381,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#FDD84B",
+      "type": "fill",
+      "brush": 0.0452,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#FB95B4",
+      "type": "fill",
+      "brush": 0.0416,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#FB96B5",
+      "type": "fill",
+      "brush": 0.0353,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#B4ECFD",
+      "type": "fill",
+      "brush": 0.0294,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#B3EBFC",
+      "type": "fill",
+      "brush": 0.0294,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#A4693C",
+      "type": "fill",
+      "brush": 0.0254,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#F4B938",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#FDD84B",
+      "type": "fill",
+      "brush": 0.0452,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#56A951",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0314,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0314,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

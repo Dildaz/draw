@@ -1,0 +1,108 @@
+{
+  "id": "fire_truck_pups",
+  "title": {"en": "Fire Truck Pups", "es": "Cachorros bomberos", "pt": "Cachorrinhos bombeiros", "fr": "Chiots pompiers", "de": "Feuerwehr-Welpen", "vi": "Cún con lính cứu hỏa", "id": "Anak Anjing Pemadam"},
+  "category": "vehicle",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#E62E22",
+      "type": "fill",
+      "brush": 0.0459,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#EA3121",
+      "type": "fill",
+      "brush": 0.0382,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#A9E1FA",
+      "type": "fill",
+      "brush": 0.0394,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#D3D6D9",
+      "type": "fill",
+      "brush": 0.0386,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#BEBDBD",
+      "type": "fill",
+      "brush": 0.0327,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#EA3121",
+      "type": "fill",
+      "brush": 0.0382,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#C3221E",
+      "type": "fill",
+      "brush": 0.0273,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#E0B577",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#965C2E",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0418,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0418,
+      "lane": 1
+    },
+    {
+      "mask": "step_12",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0295,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "hellokitty_wave",
+  "title": {"en": "Hello Kitty Says Hi", "es": "Hello Kitty te saluda", "pt": "Hello Kitty diz oi", "fr": "Hello Kitty dit bonjour", "de": "Hello Kitty sagt Hallo", "vi": "Hello Kitty chào bạn", "id": "Hello Kitty Menyapa"},
+  "category": "hellokitty",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.027,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.027,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.027,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.027,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#1183DF",
+      "type": "fill",
+      "brush": 0.0595,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#ED284A",
+      "type": "fill",
+      "brush": 0.0341,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#F7D828",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

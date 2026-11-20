@@ -1,0 +1,108 @@
+{
+  "id": "donut_hamsters",
+  "title": {"en": "Donut Hamsters", "es": "Hámsteres con dona", "pt": "Hamsters do donut", "fr": "Hamsters au donut", "de": "Donut-Hamster", "vi": "Chuột hamster & Bánh donut", "id": "Hamster dan Donat"},
+  "category": "food",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FD77A8",
+      "type": "fill",
+      "brush": 0.0713,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#A69D9A",
+      "type": "fill",
+      "brush": 0.0581,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#E89C42",
+      "type": "fill",
+      "brush": 0.0583,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#FABA6B",
+      "type": "fill",
+      "brush": 0.0338,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#F9B96A",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#FEE634",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_07",
+      "color": "#8E35C8",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#FDB7B0",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#FDB4AD",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#FDB7B0",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#FDB4AD",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

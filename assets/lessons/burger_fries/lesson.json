@@ -1,0 +1,86 @@
+{
+  "id": "burger_fries",
+  "title": {"en": "Burger & Fries", "es": "Hamburguesa y papas", "pt": "Hambúrguer e batata frita", "fr": "Burger et frites", "de": "Burger & Pommes", "vi": "Bánh burger & Khoai tây chiên", "id": "Burger & Kentang Goreng"},
+  "category": "food",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#F7312F",
+      "type": "fill",
+      "brush": 0.0562,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#EBA355",
+      "type": "fill",
+      "brush": 0.0479,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#FBD43E",
+      "type": "fill",
+      "brush": 0.0354,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#965F47",
+      "type": "fill",
+      "brush": 0.03,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#FF0E5E",
+      "type": "fill",
+      "brush": 0.0292,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#44901B",
+      "type": "fill",
+      "brush": 0.0265,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FBD43E",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#F7312E",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#FEB02E",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 1
+    }
+  ]
+}

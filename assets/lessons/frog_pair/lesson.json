@@ -1,0 +1,65 @@
+{
+  "id": "frog_pair",
+  "title": {"en": "Frog Pair", "es": "Pareja de ranas", "pt": "Par de sapos", "fr": "Duo de grenouilles", "de": "Froschpaar", "vi": "Đôi bạn ếch", "id": "Sepasang Katak"},
+  "category": "animal",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#0FBAB2",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#64C424",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#FEFEFE",
+      "type": "fill",
+      "brush": 0.0435,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#FEFEFE",
+      "type": "fill",
+      "brush": 0.0433,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0087,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0087,
+      "lane": 1
+    }
+  ]
+}

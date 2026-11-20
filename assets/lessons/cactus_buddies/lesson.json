@@ -1,0 +1,108 @@
+{
+  "id": "cactus_buddies",
+  "title": {"en": "Cactus Buddies", "es": "Cactus amigos", "pt": "Cactos amigos", "fr": "Cactus copains", "de": "Kaktus-Freunde", "vi": "Đôi bạn xương rồng", "id": "Sahabat Kaktus"},
+  "category": "nature",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#8CBB4B",
+      "type": "fill",
+      "brush": 0.0665,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#8CBB49",
+      "type": "fill",
+      "brush": 0.0496,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#D77742",
+      "type": "fill",
+      "brush": 0.0464,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#D87642",
+      "type": "fill",
+      "brush": 0.0447,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#FB8EB0",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#FB8EB0",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_07",
+      "color": "#548E39",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#548E39",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#528C36",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#528C36",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#EAB59C",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#EAB59C",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

@@ -1,0 +1,74 @@
+{
+  "id": "hellokitty_book",
+  "title": {"en": "Hello Kitty Reads", "es": "Hello Kitty lee", "pt": "Hello Kitty lê", "fr": "Hello Kitty lit", "de": "Hello Kitty liest", "vi": "Hello Kitty đọc sách", "id": "Hello Kitty Membaca"},
+  "category": "hellokitty",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0282,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0282,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0282,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0282,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#A771CD",
+      "type": "fill",
+      "brush": 0.0587,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#EC2749",
+      "type": "fill",
+      "brush": 0.0363,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#F7D623",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

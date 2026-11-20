@@ -1,0 +1,108 @@
+{
+  "id": "balloon_bears",
+  "title": {"en": "Balloon Bears", "es": "Ositos con globos", "pt": "Ursinhos com balões", "fr": "Oursons aux ballons", "de": "Ballon-Bären", "vi": "Gấu con & Bóng bay", "id": "Beruang Balon"},
+  "category": "animal",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#C57C42",
+      "type": "fill",
+      "brush": 0.0585,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#95603E",
+      "type": "fill",
+      "brush": 0.0557,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#4EBB67",
+      "type": "fill",
+      "brush": 0.0318,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#F83130",
+      "type": "fill",
+      "brush": 0.0313,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#F787AC",
+      "type": "fill",
+      "brush": 0.0304,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#F9E0BE",
+      "type": "fill",
+      "brush": 0.0273,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#F8DFBE",
+      "type": "fill",
+      "brush": 0.0264,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#FDE522",
+      "type": "fill",
+      "brush": 0.0272,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#48ABFC",
+      "type": "fill",
+      "brush": 0.0265,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#7F5134",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#F9E0BE",
+      "type": "fill",
+      "brush": 0.0273,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}
