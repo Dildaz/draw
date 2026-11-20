@@ -1,0 +1,87 @@
+{
+  "id": "school_bus",
+  "title": {"en": "Happy School Bus", "es": "Autobús escolar feliz", "pt": "Ônibus escolar feliz", "fr": "Bus scolaire joyeux", "de": "Fröhlicher Schulbus", "vi": "Xe buýt trường học vui vẻ", "id": "Bus Sekolah Ceria"},
+  "category": "vehicle",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FDCD23",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#AAE1FA",
+      "type": "fill",
+      "brush": 0.0629,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#5B5954",
+      "type": "fill",
+      "brush": 0.0381,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0575,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0575,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0575,
+      "lane": 0
+    }
+  ],
+  "source": "ai"
+}

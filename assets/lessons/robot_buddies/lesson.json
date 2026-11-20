@@ -1,0 +1,108 @@
+{
+  "id": "robot_buddies",
+  "title": {"en": "Rocket Robots", "es": "Robots cohete", "pt": "Robôs foguete", "fr": "Robots fusées", "de": "Raketen-Roboter", "vi": "Rô-bốt tên lửa", "id": "Robot Roket"},
+  "category": "hero",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FDDA2B",
+      "type": "fill",
+      "brush": 0.0515,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#F12A2D",
+      "type": "fill",
+      "brush": 0.0507,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#93CFF9",
+      "type": "fill",
+      "brush": 0.0307,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#90CFF9",
+      "type": "fill",
+      "brush": 0.0299,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#FC771A",
+      "type": "fill",
+      "brush": 0.026,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FA7919",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_07",
+      "color": "#FEDD32",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#A9B2C1",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#A4ADBC",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#EF292D",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#93CFF9",
+      "type": "fill",
+      "brush": 0.0307,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

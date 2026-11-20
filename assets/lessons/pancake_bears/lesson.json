@@ -1,0 +1,108 @@
+{
+  "id": "pancake_bears",
+  "title": {"en": "Pancake Bears", "es": "Osos con tortitas", "pt": "Ursos das panquecas", "fr": "Ours aux crêpes", "de": "Pfannkuchen-Bären", "vi": "Gấu & Bánh kếp", "id": "Beruang Panekuk"},
+  "category": "food",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#BA7235",
+      "type": "fill",
+      "brush": 0.0734,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#DBAA71",
+      "type": "fill",
+      "brush": 0.0668,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#F6C36E",
+      "type": "fill",
+      "brush": 0.0347,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#CA6708",
+      "type": "fill",
+      "brush": 0.0266,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#E79B3A",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FBE6BF",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#E59835",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#FBE7CA",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#E93131",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#D17712",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#FBE6BF",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#FBE6BF",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

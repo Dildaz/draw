@@ -1,0 +1,101 @@
+{
+  "id": "otter_float",
+  "title": {"en": "Floating Otters", "es": "Nutrias flotando", "pt": "Lontras boiando", "fr": "Loutres qui flottent", "de": "Treibende Otter", "vi": "Rái cá nổi trên nước", "id": "Berang-berang Mengapung"},
+  "category": "sea",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#61BFF6",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#9E7552",
+      "type": "fill",
+      "brush": 0.0432,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#A37A55",
+      "type": "fill",
+      "brush": 0.0438,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#F6DEB6",
+      "type": "fill",
+      "brush": 0.0427,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#F7DFB8",
+      "type": "fill",
+      "brush": 0.0425,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#BD8E61",
+      "type": "fill",
+      "brush": 0.0332,
+      "lane": 1
+    },
+    {
+      "mask": "step_07",
+      "color": "#BF9062",
+      "type": "fill",
+      "brush": 0.0331,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FB813E",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#61BFF6",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#60422A",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#BF9062",
+      "type": "fill",
+      "brush": 0.0331,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0181,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0181,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

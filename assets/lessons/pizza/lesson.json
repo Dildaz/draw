@@ -1,0 +1,65 @@
+{
+  "id": "pizza",
+  "title": {"en": "Pizza Slice", "es": "Porción de pizza", "pt": "Fatia de pizza", "fr": "Part de pizza", "de": "Pizzastück", "vi": "Miếng pizza", "id": "Potongan Pizza"},
+  "category": "food",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#FBD43F",
+      "type": "fill",
+      "brush": 0.0752,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#F3AC60",
+      "type": "fill",
+      "brush": 0.0707,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#F8312F",
+      "type": "fill",
+      "brush": 0.0434,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#594B31",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "picnic_pals",
+  "title": {"en": "Picnic Pals", "es": "Amigos de pícnic", "pt": "Amigos do piquenique", "fr": "Copains de pique-nique", "de": "Picknick-Freunde", "vi": "Bạn dã ngoại", "id": "Teman Piknik"},
+  "category": "animal",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#B26836",
+      "type": "fill",
+      "brush": 0.0741,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#FB8084",
+      "type": "fill",
+      "brush": 0.0495,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#EC3E46",
+      "type": "fill",
+      "brush": 0.0278,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#EC3E46",
+      "type": "fill",
+      "brush": 0.0263,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#86470E",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#EB0C1B",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FAD0A4",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#FE9CA5",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#FE9CA5",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#EA0A1A",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#EA0A1A",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_12",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

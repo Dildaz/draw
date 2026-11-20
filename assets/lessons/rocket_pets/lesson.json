@@ -1,0 +1,108 @@
+{
+  "id": "rocket_pets",
+  "title": {"en": "Rocket Pets", "es": "Mascotas en cohete", "pt": "Pets no foguete", "fr": "Animaux en fusée", "de": "Raketen-Haustiere", "vi": "Thú cưng trên tên lửa", "id": "Hewan di Roket"},
+  "category": "space",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#F68D30",
+      "type": "fill",
+      "brush": 0.0251,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#E73F3E",
+      "type": "fill",
+      "brush": 0.0442,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#73C2EF",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#F7AC47",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#E9403E",
+      "type": "fill",
+      "brush": 0.0282,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#2F8BC8",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#D5954E",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#E73F3E",
+      "type": "fill",
+      "brush": 0.0442,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#E73F3E",
+      "type": "fill",
+      "brush": 0.0442,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#71C3F1",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#B5B6B8",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#71C3F1",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

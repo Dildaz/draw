@@ -1,0 +1,108 @@
+{
+  "id": "sandcastle_pals",
+  "title": {"en": "Sandcastle Pals", "es": "Amigos del castillo de arena", "pt": "Amigos do castelo de areia", "fr": "Copains du château de sable", "de": "Sandburg-Freunde", "vi": "Bạn xây lâu đài cát", "id": "Teman Istana Pasir"},
+  "category": "nature",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#F4D19D",
+      "type": "fill",
+      "brush": 0.05,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#FDE284",
+      "type": "fill",
+      "brush": 0.0557,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#51B3FC",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#B08258",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#886143",
+      "type": "fill",
+      "brush": 0.033,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#FBE8C4",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_07",
+      "color": "#886143",
+      "type": "fill",
+      "brush": 0.033,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#EB3639",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#BA8345",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#FBC5CD",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#FAA9B2",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#FAA9B2",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

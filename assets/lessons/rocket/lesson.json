@@ -1,0 +1,86 @@
+{
+  "id": "rocket",
+  "title": {"en": "Space Rocket", "es": "Cohete espacial", "pt": "Foguete espacial", "fr": "Fusée spatiale", "de": "Weltraumrakete", "vi": "Tên lửa vũ trụ", "id": "Roket Luar Angkasa"},
+  "category": "space",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0141,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0141,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0141,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0141,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#FEFEFE",
+      "type": "fill",
+      "brush": 0.069,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#0076EA",
+      "type": "fill",
+      "brush": 0.0511,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#F6211A",
+      "type": "fill",
+      "brush": 0.0344,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#39B3FD",
+      "type": "fill",
+      "brush": 0.0326,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#FE6A04",
+      "type": "fill",
+      "brush": 0.0315,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#FEC90D",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0369,
+      "lane": 0
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": "owl_chick",
+  "title": {"en": "Owl & Chick", "es": "Búho y pollito", "pt": "Coruja e pintinho", "fr": "Hibou et poussin", "de": "Eule & Küken", "vi": "Cú mèo & Gà con", "id": "Burung Hantu & Anak Ayam"},
+  "category": "animal",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FAD03D",
+      "type": "fill",
+      "brush": 0.0634,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#965F48",
+      "type": "fill",
+      "brush": 0.0433,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#FEDDA6",
+      "type": "fill",
+      "brush": 0.0417,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#FAD33F",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#F9812E",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#8655A2",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FE7729",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 1
+    }
+  ]
+}

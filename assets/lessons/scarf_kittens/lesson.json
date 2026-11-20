@@ -1,0 +1,108 @@
+{
+  "id": "scarf_kittens",
+  "title": {"en": "Scarf Kittens", "es": "Gatitos con bufanda", "pt": "Gatinhos de cachecol", "fr": "Chatons à l'écharpe", "de": "Schal-Kätzchen", "vi": "Mèo con quàng khăn", "id": "Anak Kucing Berselendang"},
+  "category": "animal",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#76757F",
+      "type": "fill",
+      "brush": 0.0691,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#FE9F32",
+      "type": "fill",
+      "brush": 0.0692,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#FE9F32",
+      "type": "fill",
+      "brush": 0.0692,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#E6252C",
+      "type": "fill",
+      "brush": 0.0308,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#E5252C",
+      "type": "fill",
+      "brush": 0.0316,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#FED242",
+      "type": "fill",
+      "brush": 0.0259,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FED342",
+      "type": "fill",
+      "brush": 0.0263,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#D86416",
+      "type": "fill",
+      "brush": 0.0294,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#FED342",
+      "type": "fill",
+      "brush": 0.0263,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#D86416",
+      "type": "fill",
+      "brush": 0.0294,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#FD9AA1",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_12",
+      "color": "#FD9AA1",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

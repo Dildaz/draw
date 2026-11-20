@@ -1,0 +1,108 @@
+{
+  "id": "shield_turtles",
+  "title": {"en": "Shield Turtles", "es": "Tortugas escudo", "pt": "Tartarugas escudo", "fr": "Tortues boucliers", "de": "Schild-Schildkröten", "vi": "Rùa khiên", "id": "Kura-kura Perisai"},
+  "category": "hero",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#98C165",
+      "type": "fill",
+      "brush": 0.0557,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#97C064",
+      "type": "fill",
+      "brush": 0.0549,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#215BAD",
+      "type": "fill",
+      "brush": 0.0274,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#205BAC",
+      "type": "fill",
+      "brush": 0.0271,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#FDDD86",
+      "type": "fill",
+      "brush": 0.0258,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FDDE87",
+      "type": "fill",
+      "brush": 0.0254,
+      "lane": 1
+    },
+    {
+      "mask": "step_07",
+      "color": "#F0252A",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#F0252C",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#B9650D",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#B7640B",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#F0A679",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_12",
+      "color": "#EEA678",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

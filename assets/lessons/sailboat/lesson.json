@@ -1,0 +1,72 @@
+{
+  "id": "sailboat",
+  "title": {"en": "Sailboat", "es": "Velero", "pt": "Veleiro", "fr": "Voilier", "de": "Segelboot", "vi": "Thuyền buồm", "id": "Perahu Layar"},
+  "category": "vehicle",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#00A5EC",
+      "type": "fill",
+      "brush": 0.0655,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#FBD43F",
+      "type": "fill",
+      "brush": 0.0481,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FE8157",
+      "type": "fill",
+      "brush": 0.0348,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FE9E2E",
+      "type": "fill",
+      "brush": 0.0337,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FEFDFC",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#B78953",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ]
+}

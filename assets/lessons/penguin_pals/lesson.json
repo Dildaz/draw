@@ -1,0 +1,79 @@
+{
+  "id": "penguin_pals",
+  "title": {"en": "Penguin Pals", "es": "Pingüinos amigos", "pt": "Pinguins amigos", "fr": "Pingouins copains", "de": "Pinguinfreunde", "vi": "Đôi bạn chim cánh cụt", "id": "Sahabat Penguin"},
+  "category": "animal",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FEFEFE",
+      "type": "fill",
+      "brush": 0.073,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#FEFEFE",
+      "type": "fill",
+      "brush": 0.0729,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#0162CA",
+      "type": "fill",
+      "brush": 0.0568,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#FEC90B",
+      "type": "fill",
+      "brush": 0.0317,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#FE780B",
+      "type": "fill",
+      "brush": 0.0284,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#FDC90A",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_07",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0607,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0315,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0315,
+      "lane": 1
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "skating_penguins",
+  "title": {"en": "Skating Penguins", "es": "Pingüinos patinadores", "pt": "Pinguins patinadores", "fr": "Pingouins patineurs", "de": "Eislauf-Pinguine", "vi": "Chim cánh cụt trượt băng", "id": "Penguin Berseluncur"},
+  "category": "animal",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#A2DEFD",
+      "type": "fill",
+      "brush": 0.0702,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#EF2529",
+      "type": "fill",
+      "brush": 0.0381,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#FD77A9",
+      "type": "fill",
+      "brush": 0.0403,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#FD77A9",
+      "type": "fill",
+      "brush": 0.0403,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#7CC8FC",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#C7CCCF",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#C7CCD0",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#7AC7FC",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#CDEEFE",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0389,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0479,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0479,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.013,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.013,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

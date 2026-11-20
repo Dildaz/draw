@@ -1,0 +1,32 @@
+{
+  "id": "neon_planet",
+  "title": {"en": "Neon Planet", "es": "Planeta de neón", "pt": "Planeta neon", "fr": "Planète néon", "de": "Neon-Planet", "vi": "Hành tinh neon", "id": "Planet Neon"},
+  "category": "neon",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#29D8FF",
+      "type": "stroke",
+      "brush": 0.0312,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#B34DFF",
+      "type": "stroke",
+      "brush": 0.0312,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#FFE433",
+      "type": "stroke",
+      "brush": 0.0312,
+      "lane": 0
+    }
+  ],
+  "style": "neon",
+  "source": "ai"
+}

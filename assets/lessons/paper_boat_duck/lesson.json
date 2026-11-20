@@ -1,0 +1,80 @@
+{
+  "id": "paper_boat_duck",
+  "title": {"en": "Paper Boat Duck", "es": "Patito en barco de papel", "pt": "Patinho no barco de papel", "fr": "Canard en bateau de papier", "de": "Papierboot-Ente", "vi": "Vịt con & Thuyền giấy", "id": "Bebek Perahu Kertas"},
+  "category": "vehicle",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#46C0FD",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FDD93F",
+      "type": "fill",
+      "brush": 0.0652,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#D1DCE6",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#F67720",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#D1DCE6",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ],
+  "source": "ai"
+}

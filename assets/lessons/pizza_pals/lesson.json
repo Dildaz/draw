@@ -1,0 +1,108 @@
+{
+  "id": "pizza_pals",
+  "title": {"en": "Pizza Pals", "es": "Amigos de la pizza", "pt": "Amigos da pizza", "fr": "Copains de la pizza", "de": "Pizza-Freunde", "vi": "Bạn chung pizza", "id": "Teman Pizza"},
+  "category": "food",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#94CB48",
+      "type": "fill",
+      "brush": 0.0583,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#AEAEAD",
+      "type": "fill",
+      "brush": 0.0551,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#FDDA4C",
+      "type": "fill",
+      "brush": 0.0341,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#FDDA4E",
+      "type": "fill",
+      "brush": 0.0305,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#DD8A22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#E59228",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#D43B1D",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#B2650A",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#FBAEAB",
+      "type": "fill",
+      "brush": 0.0315,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#D33B1D",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#FBAEAB",
+      "type": "fill",
+      "brush": 0.0315,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#9A3907",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

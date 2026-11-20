@@ -1,0 +1,108 @@
+{
+  "id": "night_owls",
+  "title": {"en": "Night Owl Heroes", "es": "Búhos héroes de la noche", "pt": "Corujas heroínas da noite", "fr": "Hiboux héros de la nuit", "de": "Eulen-Helden der Nacht", "vi": "Cú mèo anh hùng bóng đêm", "id": "Burung Hantu Pahlawan Malam"},
+  "category": "hero",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#4A5163",
+      "type": "fill",
+      "brush": 0.0561,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#FEDD4D",
+      "type": "fill",
+      "brush": 0.0575,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#434A57",
+      "type": "fill",
+      "brush": 0.0385,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#FAE5BF",
+      "type": "fill",
+      "brush": 0.0355,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#DDB275",
+      "type": "fill",
+      "brush": 0.0294,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#AB6C30",
+      "type": "fill",
+      "brush": 0.0255,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FAE5BF",
+      "type": "fill",
+      "brush": 0.0355,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#BB8042",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#D1A46D",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#4A5163",
+      "type": "fill",
+      "brush": 0.0561,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0635,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0615,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0194,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0194,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

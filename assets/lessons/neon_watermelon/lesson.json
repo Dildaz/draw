@@ -1,0 +1,25 @@
+{
+  "id": "neon_watermelon",
+  "title": {"en": "Neon Watermelon", "es": "Sandía de neón", "pt": "Melancia neon", "fr": "Pastèque néon", "de": "Neon-Wassermelone", "vi": "Dưa hấu neon", "id": "Semangka Neon"},
+  "category": "neon",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FF3B3B",
+      "type": "stroke",
+      "brush": 0.0312,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#4DFF5A",
+      "type": "stroke",
+      "brush": 0.0312,
+      "lane": 0
+    }
+  ],
+  "style": "neon",
+  "source": "ai"
+}
