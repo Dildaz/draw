@@ -1,0 +1,108 @@
+{
+  "id": "toy_train_trip",
+  "title": {"en": "Toy Train Trip", "es": "Viaje en tren de juguete", "pt": "Viagem de trenzinho", "fr": "Voyage en petit train", "de": "Spielzeugzug-Reise", "vi": "Chuyến tàu đồ chơi", "id": "Naik Kereta Mainan"},
+  "category": "vehicle",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#F59747",
+      "type": "fill",
+      "brush": 0.0411,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#1AA2E6",
+      "type": "fill",
+      "brush": 0.0471,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#59B458",
+      "type": "fill",
+      "brush": 0.0396,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#43505C",
+      "type": "fill",
+      "brush": 0.0294,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#FDD73D",
+      "type": "fill",
+      "brush": 0.0257,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#FCD73D",
+      "type": "fill",
+      "brush": 0.0265,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#ED5650",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#404D5A",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#404D5A",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#4DA654",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#814B2E",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_12",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0298,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

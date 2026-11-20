@@ -1,0 +1,108 @@
+{
+  "id": "umbrella_buddies",
+  "title": {"en": "Umbrella Buddies", "es": "Amigos bajo el paraguas", "pt": "Amigos do guarda-chuva", "fr": "Copains sous le parapluie", "de": "Regenschirm-Freunde", "vi": "Bạn chung ô", "id": "Teman Sepayung"},
+  "category": "animal",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FEA337",
+      "type": "fill",
+      "brush": 0.0541,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#FBEBD7",
+      "type": "fill",
+      "brush": 0.0512,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#7DCFFA",
+      "type": "fill",
+      "brush": 0.0501,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#C77E46",
+      "type": "fill",
+      "brush": 0.0421,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#FED337",
+      "type": "fill",
+      "brush": 0.0366,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#7ACF65",
+      "type": "fill",
+      "brush": 0.0328,
+      "lane": 1
+    },
+    {
+      "mask": "step_07",
+      "color": "#FA443D",
+      "type": "fill",
+      "brush": 0.0315,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#35A9FC",
+      "type": "fill",
+      "brush": 0.0308,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#B06637",
+      "type": "fill",
+      "brush": 0.0346,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#747880",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#E2741B",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#76CCFC",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

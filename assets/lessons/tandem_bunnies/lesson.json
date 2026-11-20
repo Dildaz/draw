@@ -1,0 +1,108 @@
+{
+  "id": "tandem_bunnies",
+  "title": {"en": "Tandem Bike Bunnies", "es": "Conejitos en tándem", "pt": "Coelhinhos de bicicleta dupla", "fr": "Lapins en tandem", "de": "Tandem-Häschen", "vi": "Thỏ đạp xe đôi", "id": "Kelinci Sepeda Tandem"},
+  "category": "vehicle",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#F1D7BC",
+      "type": "fill",
+      "brush": 0.055,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#4C5864",
+      "type": "fill",
+      "brush": 0.0267,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#58616C",
+      "type": "fill",
+      "brush": 0.0263,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#EE668A",
+      "type": "fill",
+      "brush": 0.0318,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#E95F81",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#2DB2F8",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#EE668A",
+      "type": "fill",
+      "brush": 0.0318,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#F09CA1",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#F09CA1",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#EF9B9E",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#EF9B9E",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_12",
+      "color": "#737D89",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

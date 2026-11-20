@@ -1,0 +1,87 @@
+{
+  "id": "star_pancakes",
+  "title": {"en": "Star Pancakes", "es": "Tortitas con estrella", "pt": "Panquecas com estrela", "fr": "Pancakes étoilés", "de": "Sternen-Pfannkuchen", "vi": "Bánh kếp ngôi sao", "id": "Panekuk Bintang"},
+  "category": "hero",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#CB6E23",
+      "type": "fill",
+      "brush": 0.0699,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FDDD89",
+      "type": "fill",
+      "brush": 0.0627,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#E51B2D",
+      "type": "fill",
+      "brush": 0.0419,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#8CCDF8",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#E51B2D",
+      "type": "fill",
+      "brush": 0.0419,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#E51B2D",
+      "type": "fill",
+      "brush": 0.0419,
+      "lane": 0
+    }
+  ],
+  "source": "ai"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "web_cupcakes",
+  "title": {"en": "Web Cupcakes", "es": "Cupcakes de telaraña", "pt": "Cupcakes de teia", "fr": "Cupcakes toile d'araignée", "de": "Spinnennetz-Cupcakes", "vi": "Bánh cupcake mạng nhện", "id": "Cupcake Jaring Laba-laba"},
+  "category": "hero",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#2382FC",
+      "type": "fill",
+      "brush": 0.0516,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#F02928",
+      "type": "fill",
+      "brush": 0.0505,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#F5C27F",
+      "type": "fill",
+      "brush": 0.0632,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#F5C27F",
+      "type": "fill",
+      "brush": 0.0632,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#C72121",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#EAAB63",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ],
+  "source": "ai"
+}

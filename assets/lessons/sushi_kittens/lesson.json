@@ -1,0 +1,108 @@
+{
+  "id": "sushi_kittens",
+  "title": {"en": "Sushi Kittens", "es": "Gatitos con sushi", "pt": "Gatinhos do sushi", "fr": "Chatons sushi", "de": "Sushi-Kätzchen", "vi": "Mèo con & Sushi", "id": "Anak Kucing Sushi"},
+  "category": "food",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#9A9999",
+      "type": "fill",
+      "brush": 0.048,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#F89E45",
+      "type": "fill",
+      "brush": 0.0485,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#626261",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#D86812",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#D86812",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#E9661C",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#7EB42C",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FCADA9",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#FDB2AE",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#FDB2AE",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0365,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0357,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

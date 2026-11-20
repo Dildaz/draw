@@ -1,0 +1,101 @@
+{
+  "id": "spider_pals",
+  "title": {"en": "Web Hammock Pals", "es": "Amigos en la hamaca de telaraña", "pt": "Amigos na rede de teia", "fr": "Amis dans le hamac-toile", "de": "Netz-Hängematten-Freunde", "vi": "Đôi bạn võng mạng nhện", "id": "Sahabat Hammock Jaring"},
+  "category": "hero",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#E72524",
+      "type": "fill",
+      "brush": 0.0412,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#FDECD4",
+      "type": "fill",
+      "brush": 0.027,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#EB2525",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#1D67C3",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#1B62B9",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#EB2525",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_07",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0358,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0358,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

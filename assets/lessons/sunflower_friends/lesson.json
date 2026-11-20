@@ -1,0 +1,108 @@
+{
+  "id": "sunflower_friends",
+  "title": {"en": "Sunflower Friends", "es": "Amigos del girasol", "pt": "Amigos do girassol", "fr": "Amis du tournesol", "de": "Sonnenblumen-Freunde", "vi": "Đôi bạn hoa hướng dương", "id": "Sahabat Bunga Matahari"},
+  "category": "nature",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FDD027",
+      "type": "fill",
+      "brush": 0.0627,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#BA7638",
+      "type": "fill",
+      "brush": 0.0562,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#4BA138",
+      "type": "fill",
+      "brush": 0.0444,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#FDD029",
+      "type": "fill",
+      "brush": 0.0449,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#49A037",
+      "type": "fill",
+      "brush": 0.0421,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#BCE8F8",
+      "type": "fill",
+      "brush": 0.0289,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FDE7C6",
+      "type": "fill",
+      "brush": 0.0251,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#EA2625",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#FDD029",
+      "type": "fill",
+      "brush": 0.0449,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0299,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0262,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.0262,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "yarn_nap_cat",
+  "title": {"en": "Yarn Nap Cat", "es": "Gatito entre lanas", "pt": "Gatinho no cesto de lã", "fr": "Chaton dans la laine", "de": "Wollkorb-Kätzchen", "vi": "Mèo ngủ giỏ len", "id": "Kucing Tidur di Benang"},
+  "category": "animal",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#F8A83C",
+      "type": "fill",
+      "brush": 0.0766,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#C08249",
+      "type": "fill",
+      "brush": 0.0575,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#DCA15E",
+      "type": "fill",
+      "brush": 0.0386,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#6B4C32",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#9667C1",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#57C176",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ],
+  "source": "ai"
+}

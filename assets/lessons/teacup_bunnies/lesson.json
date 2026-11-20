@@ -1,0 +1,108 @@
+{
+  "id": "teacup_bunnies",
+  "title": {"en": "Teacup Bunnies", "es": "Conejitos en la taza", "pt": "Coelhinhos na xícara", "fr": "Lapins dans la tasse", "de": "Tassen-Häschen", "vi": "Thỏ con trong tách trà", "id": "Kelinci dalam Cangkir"},
+  "category": "food",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#F791B4",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#E1E0E3",
+      "type": "fill",
+      "brush": 0.0559,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#F790B4",
+      "type": "fill",
+      "brush": 0.0272,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#E8B063",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#FABBCA",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FABBCA",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#F9A8B5",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#F9A8B5",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#D76891",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#FABBCA",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#FABBCA",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

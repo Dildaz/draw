@@ -1,0 +1,108 @@
+{
+  "id": "turtle_jellyfish",
+  "title": {"en": "Turtle & Jellyfish", "es": "Tortuga y medusa", "pt": "Tartaruga e água-viva", "fr": "Tortue et méduse", "de": "Schildkröte & Qualle", "vi": "Rùa & Sứa", "id": "Penyu & Ubur-ubur"},
+  "category": "sea",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#94CD51",
+      "type": "fill",
+      "brush": 0.059,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#FBBCD1",
+      "type": "fill",
+      "brush": 0.0499,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#15874A",
+      "type": "fill",
+      "brush": 0.0369,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#D983B1",
+      "type": "fill",
+      "brush": 0.0348,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#94CD51",
+      "type": "fill",
+      "brush": 0.059,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FCE58E",
+      "type": "fill",
+      "brush": 0.0273,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#F96D8A",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#F96D8A",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#63B248",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#FBBCD1",
+      "type": "fill",
+      "brush": 0.0499,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#63B248",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#B3ABAF",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}
