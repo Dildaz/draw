@@ -1,0 +1,32 @@
+{
+  "id": "neon_cat",
+  "title": {"en": "Neon Cat", "es": "Gato de neón", "pt": "Gato neon", "fr": "Chat néon", "de": "Neon-Katze", "vi": "Mèo neon", "id": "Kucing Neon"},
+  "category": "neon",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FF3DB4",
+      "type": "stroke",
+      "brush": 0.0312,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#FFE433",
+      "type": "stroke",
+      "brush": 0.0312,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#29D8FF",
+      "type": "stroke",
+      "brush": 0.0312,
+      "lane": 0
+    }
+  ],
+  "style": "neon",
+  "source": "ai"
+}

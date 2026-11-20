@@ -1,0 +1,87 @@
+{
+  "id": "jet_bear",
+  "title": {"en": "Jet Boot Bear", "es": "Osito con botas cohete", "pt": "Ursinho de botas a jato", "fr": "Ourson aux bottes-fusées", "de": "Düsenstiefel-Bär", "vi": "Gấu giày phản lực", "id": "Beruang Sepatu Jet"},
+  "category": "hero",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#B46C48",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FC7819",
+      "type": "fill",
+      "brush": 0.0329,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FDDA2F",
+      "type": "fill",
+      "brush": 0.0431,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#FDD19B",
+      "type": "fill",
+      "brush": 0.0374,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#EC282D",
+      "type": "fill",
+      "brush": 0.0293,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#FDD19B",
+      "type": "fill",
+      "brush": 0.0374,
+      "lane": 0
+    }
+  ],
+  "source": "ai"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "neon_fish",
+  "title": {"en": "Neon Fish", "es": "Pez de neón", "pt": "Peixe neon", "fr": "Poisson néon", "de": "Neon-Fisch", "vi": "Cá neon", "id": "Ikan Neon"},
+  "category": "neon",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FF3DB4",
+      "type": "stroke",
+      "brush": 0.0278,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#29D8FF",
+      "type": "stroke",
+      "brush": 0.0278,
+      "lane": 0
+    }
+  ],
+  "style": "neon",
+  "source": "ai"
+}

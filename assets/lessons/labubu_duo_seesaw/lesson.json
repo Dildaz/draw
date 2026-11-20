@@ -1,0 +1,109 @@
+{
+  "id": "labubu_duo_seesaw",
+  "title": {"en": "Labubu Seesaw", "es": "Labubu en el balancín", "pt": "Labubu na gangorra", "fr": "Labubu à la bascule", "de": "Labubu auf der Wippe", "vi": "Labubu chơi bập bênh", "id": "Labubu Main Jungkat-jungkit"},
+  "category": "labubu",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#87CFFC",
+      "type": "fill",
+      "brush": 0.0562,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#FC8B38",
+      "type": "fill",
+      "brush": 0.0568,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#FADCC5",
+      "type": "fill",
+      "brush": 0.0389,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#FADAC3",
+      "type": "fill",
+      "brush": 0.0383,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#FCD258",
+      "type": "fill",
+      "brush": 0.0311,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#DF3734",
+      "type": "fill",
+      "brush": 0.0333,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FADCC5",
+      "type": "fill",
+      "brush": 0.0389,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FADAC3",
+      "type": "fill",
+      "brush": 0.0383,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#FBCB52",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#DB3332",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 1
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

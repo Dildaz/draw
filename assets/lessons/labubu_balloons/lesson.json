@@ -1,0 +1,88 @@
+{
+  "id": "labubu_balloons",
+  "title": {"en": "Labubu Balloons", "es": "Labubu con globos", "pt": "Labubu com balões", "fr": "Labubu et ses ballons", "de": "Labubu mit Luftballons", "vi": "Labubu & bóng bay", "id": "Labubu dan Balon"},
+  "category": "labubu",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#C0A3E2",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FCE2CA",
+      "type": "fill",
+      "brush": 0.0539,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#EC4E4F",
+      "type": "fill",
+      "brush": 0.0385,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#FC9339",
+      "type": "fill",
+      "brush": 0.0372,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#58B1EF",
+      "type": "fill",
+      "brush": 0.0342,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#FCE2CA",
+      "type": "fill",
+      "brush": 0.0539,
+      "lane": 0
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

@@ -1,0 +1,87 @@
+{
+  "id": "icecream_dino",
+  "title": {"en": "Ice Cream Dino", "es": "Dino con helado", "pt": "Dino do sorvete", "fr": "Dino à la glace", "de": "Eis-Dino", "vi": "Khủng long & Kem", "id": "Dino Es Krim"},
+  "category": "food",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#9DD057",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#168F5B",
+      "type": "fill",
+      "brush": 0.037,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FDF2A1",
+      "type": "fill",
+      "brush": 0.0447,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#F9989F",
+      "type": "fill",
+      "brush": 0.0317,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#FDF2A1",
+      "type": "fill",
+      "brush": 0.0447,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#E49837",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ],
+  "source": "ai"
+}

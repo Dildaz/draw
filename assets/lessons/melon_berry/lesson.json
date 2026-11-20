@@ -1,0 +1,86 @@
+{
+  "id": "melon_berry",
+  "title": {"en": "Melon & Berry", "es": "Sandía y fresa", "pt": "Melancia e morango", "fr": "Pastèque et fraise", "de": "Melone & Erdbeere", "vi": "Dưa hấu & Dâu tây", "id": "Semangka & Stroberi"},
+  "category": "food",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#F7312F",
+      "type": "fill",
+      "brush": 0.0509,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#F7312E",
+      "type": "fill",
+      "brush": 0.0494,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#00A27C",
+      "type": "fill",
+      "brush": 0.0319,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#00D169",
+      "type": "fill",
+      "brush": 0.0292,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#FEF2D6",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#00A277",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_07",
+      "color": "#9E9CA3",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0132,
+      "lane": 1
+    }
+  ]
+}

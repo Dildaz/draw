@@ -1,0 +1,67 @@
+{
+  "id": "kuromi_peace",
+  "title": {"en": "Kuromi Peace", "es": "Kuromi hace la paz", "pt": "Kuromi faz paz e amor", "fr": "Kuromi fait le V", "de": "Kuromi Peace", "vi": "Kuromi giơ tay chữ V", "id": "Kuromi Damai"},
+  "category": "kuromi",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0185,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0185,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0185,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0185,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0185,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FAA9C4",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

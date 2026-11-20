@@ -1,0 +1,67 @@
+{
+  "id": "mymelody_heart",
+  "title": {"en": "My Melody's Heart", "es": "El corazón de My Melody", "pt": "O coração da My Melody", "fr": "Le cœur de My Melody", "de": "My Melodys Herz", "vi": "Trái tim của My Melody", "id": "Hati My Melody"},
+  "category": "mymelody",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#E87497",
+      "type": "fill",
+      "brush": 0.0779,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#B594C7",
+      "type": "fill",
+      "brush": 0.0546,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FBD627",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

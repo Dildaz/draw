@@ -1,0 +1,88 @@
+{
+  "id": "labubu_star",
+  "title": {"en": "Labubu Star Hug", "es": "Labubu abraza una estrella", "pt": "Labubu abraça uma estrela", "fr": "Labubu fait un câlin à l'étoile", "de": "Labubu umarmt einen Stern", "vi": "Labubu ôm ngôi sao", "id": "Labubu Memeluk Bintang"},
+  "category": "labubu",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#A4D7B9",
+      "type": "fill",
+      "brush": 0.0783,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FCE2CA",
+      "type": "fill",
+      "brush": 0.0649,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FEE866",
+      "type": "fill",
+      "brush": 0.0512,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#FCE2CA",
+      "type": "fill",
+      "brush": 0.0649,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#FCE2CA",
+      "type": "fill",
+      "brush": 0.0649,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#A4D7B9",
+      "type": "fill",
+      "brush": 0.0783,
+      "lane": 0
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

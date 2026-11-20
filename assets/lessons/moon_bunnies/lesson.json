@@ -1,0 +1,94 @@
+{
+  "id": "moon_bunnies",
+  "title": {"en": "Moon Bunnies", "es": "Conejitos en la luna", "pt": "Coelhinhos na lua", "fr": "Lapins sur la lune", "de": "Mond-Häschen", "vi": "Thỏ con trên mặt trăng", "id": "Kelinci di Bulan"},
+  "category": "space",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FEE05F",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#D9D8D8",
+      "type": "fill",
+      "brush": 0.0578,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#FAD769",
+      "type": "fill",
+      "brush": 0.032,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#FDB3BF",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#FAD769",
+      "type": "fill",
+      "brush": 0.032,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#FDB7C3",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FDB7C3",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FAD769",
+      "type": "fill",
+      "brush": 0.032,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#FDB3BF",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#FDB7C3",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0185,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0185,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

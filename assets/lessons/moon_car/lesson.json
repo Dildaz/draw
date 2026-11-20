@@ -1,0 +1,87 @@
+{
+  "id": "moon_car",
+  "title": {"en": "Midnight Racer", "es": "Bólido de medianoche", "pt": "Bólido da meia-noite", "fr": "Bolide de minuit", "de": "Mitternachtsflitzer", "vi": "Xe đua nửa đêm", "id": "Mobil Balap Tengah Malam"},
+  "category": "hero",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FEDE4D",
+      "type": "fill",
+      "brush": 0.067,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#3593F9",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#4A4C5B",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#F9DA26",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#F9DA26",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    }
+  ],
+  "source": "ai"
+}

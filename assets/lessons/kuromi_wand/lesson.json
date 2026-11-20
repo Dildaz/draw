@@ -1,0 +1,88 @@
+{
+  "id": "kuromi_wand",
+  "title": {"en": "Kuromi's Magic Wand", "es": "La varita mágica de Kuromi", "pt": "A varinha mágica da Kuromi", "fr": "La baguette magique de Kuromi", "de": "Kuromis Zauberstab", "vi": "Đũa phép của Kuromi", "id": "Tongkat Ajaib Kuromi"},
+  "category": "kuromi",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FAAAC4",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FDD350",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FAD326",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#EF6CAC",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

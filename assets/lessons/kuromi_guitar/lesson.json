@@ -1,0 +1,88 @@
+{
+  "id": "kuromi_guitar",
+  "title": {"en": "Kuromi Rocks", "es": "Kuromi rockera", "pt": "Kuromi roqueira", "fr": "Kuromi rockeuse", "de": "Kuromi rockt", "vi": "Kuromi chơi đàn", "id": "Kuromi Bermain Gitar"},
+  "category": "kuromi",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0181,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0181,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0181,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0181,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0181,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FD9016",
+      "type": "fill",
+      "brush": 0.0427,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FAAAC4",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FD9016",
+      "type": "fill",
+      "brush": 0.0427,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#764A1F",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

@@ -1,0 +1,108 @@
+{
+  "id": "leaf_umbrella_frogs",
+  "title": {"en": "Leaf Umbrella Frogs", "es": "Ranas con paraguas de hoja", "pt": "Sapos com guarda-chuva de folha", "fr": "Grenouilles au parapluie-feuille", "de": "Frösche mit Blattschirm", "vi": "Ếch che ô lá", "id": "Katak Payung Daun"},
+  "category": "nature",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#59A248",
+      "type": "fill",
+      "brush": 0.0731,
+      "lane": 1
+    },
+    {
+      "mask": "step_02",
+      "color": "#96C24A",
+      "type": "fill",
+      "brush": 0.0659,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#8FBD46",
+      "type": "fill",
+      "brush": 0.0581,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#FAFAC9",
+      "type": "fill",
+      "brush": 0.0257,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#FAFACA",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#83DBFB",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#82DAFB",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#498533",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#F0BFA8",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#4F943E",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#F4C1AB",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_12",
+      "color": "#F4C1AB",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0215,
+      "lane": 1
+    }
+  ],
+  "source": "ai"
+}

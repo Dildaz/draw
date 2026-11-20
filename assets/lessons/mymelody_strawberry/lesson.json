@@ -1,0 +1,81 @@
+{
+  "id": "mymelody_strawberry",
+  "title": {"en": "My Melody's Strawberry", "es": "La fresa de My Melody", "pt": "O morango da My Melody", "fr": "La fraise de My Melody", "de": "My Melodys Erdbeere", "vi": "Quả dâu của My Melody", "id": "Stroberi My Melody"},
+  "category": "mymelody",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0176,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#E97496",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#DA2F33",
+      "type": "fill",
+      "brush": 0.0409,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#54A247",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FBD835",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

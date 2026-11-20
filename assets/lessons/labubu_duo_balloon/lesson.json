@@ -1,0 +1,102 @@
+{
+  "id": "labubu_duo_balloon",
+  "title": {"en": "Labubu Heart Balloon", "es": "El globo corazón de los Labubu", "pt": "O balão de coração dos Labubu", "fr": "Le ballon cœur des Labubu", "de": "Labubus Herzballon", "vi": "Bóng bay trái tim của Labubu", "id": "Balon Hati Labubu"},
+  "category": "labubu",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FBBDAA",
+      "type": "fill",
+      "brush": 0.0672,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#69C9BF",
+      "type": "fill",
+      "brush": 0.0673,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#E6434B",
+      "type": "fill",
+      "brush": 0.0612,
+      "lane": 1
+    },
+    {
+      "mask": "step_04",
+      "color": "#FBDDC6",
+      "type": "fill",
+      "brush": 0.0387,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#FADCC5",
+      "type": "fill",
+      "brush": 0.0375,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FADCC5",
+      "type": "fill",
+      "brush": 0.0375,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FBDDC6",
+      "type": "fill",
+      "brush": 0.0387,
+      "lane": 1
+    },
+    {
+      "mask": "step_08",
+      "color": "#FADCC5",
+      "type": "fill",
+      "brush": 0.0375,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#FBDDC6",
+      "type": "fill",
+      "brush": 0.0387,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 1
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

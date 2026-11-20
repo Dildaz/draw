@@ -1,0 +1,88 @@
+{
+  "id": "mymelody_cookies",
+  "title": {"en": "My Melody Bakes", "es": "My Melody hornea", "pt": "My Melody faz biscoitos", "fr": "My Melody pâtisse", "de": "My Melody backt", "vi": "My Melody nướng bánh", "id": "My Melody Membuat Kue"},
+  "category": "mymelody",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#E97597",
+      "type": "fill",
+      "brush": 0.0766,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FDDF73",
+      "type": "fill",
+      "brush": 0.0319,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#D6A569",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#BBBABA",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

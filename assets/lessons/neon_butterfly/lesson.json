@@ -1,0 +1,32 @@
+{
+  "id": "neon_butterfly",
+  "title": {"en": "Neon Butterfly", "es": "Mariposa de neón", "pt": "Borboleta neon", "fr": "Papillon néon", "de": "Neon-Schmetterling", "vi": "Bướm neon", "id": "Kupu-kupu Neon"},
+  "category": "neon",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FF8A1F",
+      "type": "stroke",
+      "brush": 0.0295,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#4DFF5A",
+      "type": "stroke",
+      "brush": 0.0295,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#FF3DB4",
+      "type": "stroke",
+      "brush": 0.0295,
+      "lane": 0
+    }
+  ],
+  "style": "neon",
+  "source": "ai"
+}

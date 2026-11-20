@@ -1,0 +1,88 @@
+{
+  "id": "labubu_wave",
+  "title": {"en": "Labubu Says Hi", "es": "Labubu te saluda", "pt": "Labubu diz oi", "fr": "Labubu dit bonjour", "de": "Labubu sagt Hallo", "vi": "Labubu chào bạn", "id": "Labubu Menyapa"},
+  "category": "labubu",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_05",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.0137,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#F7ACB6",
+      "type": "fill",
+      "brush": 0.08,
+      "lane": 0
+    },
+    {
+      "mask": "step_07",
+      "color": "#FBE1CA",
+      "type": "fill",
+      "brush": 0.0608,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FBE1CA",
+      "type": "fill",
+      "brush": 0.0608,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#FBE1CA",
+      "type": "fill",
+      "brush": 0.0608,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#FBE1CA",
+      "type": "fill",
+      "brush": 0.0608,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#1E1E22",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "neon_crown",
+  "title": {"en": "Neon Crown", "es": "Corona de neón", "pt": "Coroa neon", "fr": "Couronne néon", "de": "Neon-Krone", "vi": "Vương miện neon", "id": "Mahkota Neon"},
+  "category": "neon",
+  "players": 1,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FFE433",
+      "type": "stroke",
+      "brush": 0.033,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#B34DFF",
+      "type": "stroke",
+      "brush": 0.033,
+      "lane": 0
+    },
+    {
+      "mask": "step_03",
+      "color": "#29D8FF",
+      "type": "stroke",
+      "brush": 0.033,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#FF3DB4",
+      "type": "stroke",
+      "brush": 0.033,
+      "lane": 0
+    }
+  ],
+  "style": "neon",
+  "source": "ai"
+}

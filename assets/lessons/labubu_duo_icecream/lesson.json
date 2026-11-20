@@ -1,0 +1,109 @@
+{
+  "id": "labubu_duo_icecream",
+  "title": {"en": "Labubu Ice Cream Date", "es": "Helado para dos Labubu", "pt": "Sorvete dos Labubu", "fr": "Glace à deux Labubu", "de": "Labubu-Eis zu zweit", "vi": "Labubu chung kem", "id": "Es Krim Berdua Labubu"},
+  "category": "labubu",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#C1AEE5",
+      "type": "fill",
+      "brush": 0.073,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#FDE773",
+      "type": "fill",
+      "brush": 0.0725,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#FBDDC6",
+      "type": "fill",
+      "brush": 0.0494,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#FBDDC7",
+      "type": "fill",
+      "brush": 0.0491,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#6F4D35",
+      "type": "fill",
+      "brush": 0.0279,
+      "lane": 1
+    },
+    {
+      "mask": "step_06",
+      "color": "#FBDDC7",
+      "type": "fill",
+      "brush": 0.0491,
+      "lane": 1
+    },
+    {
+      "mask": "step_07",
+      "color": "#FBB0D1",
+      "type": "fill",
+      "brush": 0.0274,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FBDDC6",
+      "type": "fill",
+      "brush": 0.0494,
+      "lane": 0
+    },
+    {
+      "mask": "step_09",
+      "color": "#D99C4F",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 1
+    },
+    {
+      "mask": "step_10",
+      "color": "#9B6734",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_11",
+      "color": "#DC9E4F",
+      "type": "fill",
+      "brush": 0.025,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#FBDDC7",
+      "type": "fill",
+      "brush": 0.0491,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 1
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}

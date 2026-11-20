@@ -1,0 +1,109 @@
+{
+  "id": "labubu_duo_hug",
+  "title": {"en": "Labubu High Five", "es": "Labubu chocan los cinco", "pt": "Labubu toca aqui", "fr": "Labubu tope là", "de": "Labubu High Five", "vi": "Labubu đập tay", "id": "Tos Labubu"},
+  "category": "labubu",
+  "players": 2,
+  "size": 768,
+  "steps": [
+    {
+      "mask": "step_01",
+      "color": "#FDA7AB",
+      "type": "fill",
+      "brush": 0.077,
+      "lane": 0
+    },
+    {
+      "mask": "step_02",
+      "color": "#A0DDA7",
+      "type": "fill",
+      "brush": 0.0768,
+      "lane": 1
+    },
+    {
+      "mask": "step_03",
+      "color": "#FADCC5",
+      "type": "fill",
+      "brush": 0.0448,
+      "lane": 0
+    },
+    {
+      "mask": "step_04",
+      "color": "#FADCC6",
+      "type": "fill",
+      "brush": 0.0434,
+      "lane": 1
+    },
+    {
+      "mask": "step_05",
+      "color": "#FADCC5",
+      "type": "fill",
+      "brush": 0.0448,
+      "lane": 0
+    },
+    {
+      "mask": "step_06",
+      "color": "#FADCC6",
+      "type": "fill",
+      "brush": 0.0434,
+      "lane": 1
+    },
+    {
+      "mask": "step_07",
+      "color": "#FADCC5",
+      "type": "fill",
+      "brush": 0.0448,
+      "lane": 0
+    },
+    {
+      "mask": "step_08",
+      "color": "#FADCC6",
+      "type": "fill",
+      "brush": 0.0434,
+      "lane": 1
+    },
+    {
+      "mask": "step_09",
+      "color": "#FADCC5",
+      "type": "fill",
+      "brush": 0.0448,
+      "lane": 0
+    },
+    {
+      "mask": "step_10",
+      "color": "#FADCC6",
+      "type": "fill",
+      "brush": 0.0434,
+      "lane": 1
+    },
+    {
+      "mask": "step_11",
+      "color": "#FADCC5",
+      "type": "fill",
+      "brush": 0.0448,
+      "lane": 0
+    },
+    {
+      "mask": "step_12",
+      "color": "#FADCC6",
+      "type": "fill",
+      "brush": 0.0434,
+      "lane": 1
+    },
+    {
+      "mask": "step_13",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 0
+    },
+    {
+      "mask": "step_14",
+      "color": "#202020",
+      "type": "stroke",
+      "brush": 0.016,
+      "lane": 1
+    }
+  ],
+  "license": "pending",
+  "source": "ai"
+}
