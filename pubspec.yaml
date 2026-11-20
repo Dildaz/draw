@@ -1,0 +1,187 @@
+name: draw_together
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.13.3
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.6
+  google_mobile_ads: ^9.2.0
+  in_app_review: ^2.0.12
+  app_tracking_transparency: ^2.0.7
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^6.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/avatars/
+    - assets/images/banners/
+    - assets/images/mascots/
+    - assets/images/badges/
+    - assets/images/flags/
+    - assets/images/categories/
+    - assets/loc/
+    - assets/lessons/index.json
+    - assets/lessons/acorn_picnic/
+    - assets/lessons/balloon_bears/
+    - assets/lessons/best_friend_fruits/
+    - assets/lessons/birthday_cake/
+    - assets/lessons/burger_fries/
+    - assets/lessons/butterfly/
+    - assets/lessons/cactus/
+    - assets/lessons/cactus_buddies/
+    - assets/lessons/car_bus/
+    - assets/lessons/cat_buddies/
+    - assets/lessons/coral_reef/
+    - assets/lessons/cupcake/
+    - assets/lessons/donut_hamsters/
+    - assets/lessons/duo_kitty_kuromi_snowman/
+    - assets/lessons/duo_kitty_melody_picnic/
+    - assets/lessons/duo_kuromi_kitty_dance/
+    - assets/lessons/duo_melody_kuromi_cake/
+    - assets/lessons/fire_truck_pups/
+    - assets/lessons/fish_octopus/
+    - assets/lessons/flower_bees/
+    - assets/lessons/forest_cabin/
+    - assets/lessons/frog_pair/
+    - assets/lessons/garden_turtle/
+    - assets/lessons/hellokitty_book/
+    - assets/lessons/hellokitty_cupcake/
+    - assets/lessons/hellokitty_garden/
+    - assets/lessons/hellokitty_wave/
+    - assets/lessons/hot_air_chicks/
+    - assets/lessons/hot_spring_capybara/
+    - assets/lessons/ice_cream/
+    - assets/lessons/icecream_dino/
+    - assets/lessons/jet_bear/
+    - assets/lessons/kuromi_guitar/
+    - assets/lessons/kuromi_lollipop/
+    - assets/lessons/kuromi_peace/
+    - assets/lessons/kuromi_wand/
+    - assets/lessons/labubu_balloons/
+    - assets/lessons/labubu_duo_balloon/
+    - assets/lessons/labubu_duo_hug/
+    - assets/lessons/labubu_duo_icecream/
+    - assets/lessons/labubu_duo_seesaw/
+    - assets/lessons/labubu_painter/
+    - assets/lessons/labubu_star/
+    - assets/lessons/labubu_wave/
+    - assets/lessons/ladybug/
+    - assets/lessons/leaf_umbrella_frogs/
+    - assets/lessons/letter_snail/
+    - assets/lessons/lion_tiger/
+    - assets/lessons/melon_berry/
+    - assets/lessons/moon_bunnies/
+    - assets/lessons/moon_car/
+    - assets/lessons/mushroom/
+    - assets/lessons/mymelody_cookies/
+    - assets/lessons/mymelody_heart/
+    - assets/lessons/mymelody_strawberry/
+    - assets/lessons/mymelody_tea/
+    - assets/lessons/neon_butterfly/
+    - assets/lessons/neon_cat/
+    - assets/lessons/neon_crown/
+    - assets/lessons/neon_fish/
+    - assets/lessons/neon_planet/
+    - assets/lessons/neon_rocket/
+    - assets/lessons/neon_storm/
+    - assets/lessons/neon_watermelon/
+    - assets/lessons/night_owls/
+    - assets/lessons/octopus_tea/
+    - assets/lessons/otter_float/
+    - assets/lessons/owl_chick/
+    - assets/lessons/pancake_bears/
+    - assets/lessons/panda_koala/
+    - assets/lessons/paper_boat_duck/
+    - assets/lessons/penguin_pals/
+    - assets/lessons/picnic_pals/
+    - assets/lessons/pizza/
+    - assets/lessons/pizza_pals/
+    - assets/lessons/plane_trip/
+    - assets/lessons/planet/
+    - assets/lessons/pumpkin_tractor/
+    - assets/lessons/puppy_kitty/
+    - assets/lessons/rainbow_garden/
+    - assets/lessons/rainbow_slide/
+    - assets/lessons/robot_buddies/
+    - assets/lessons/rocket/
+    - assets/lessons/rocket_pets/
+    - assets/lessons/sailboat/
+    - assets/lessons/sandcastle_pals/
+    - assets/lessons/scarf_kittens/
+    - assets/lessons/school_bus/
+    - assets/lessons/shield_turtles/
+    - assets/lessons/skating_penguins/
+    - assets/lessons/spider_pals/
+    - assets/lessons/star_pancakes/
+    - assets/lessons/sunflower/
+    - assets/lessons/sunflower_friends/
+    - assets/lessons/sushi_kittens/
+    - assets/lessons/tandem_bunnies/
+    - assets/lessons/teacup_bunnies/
+    - assets/lessons/tower_dragon/
+    - assets/lessons/toy_train_trip/
+    - assets/lessons/train/
+    - assets/lessons/turtle_crab/
+    - assets/lessons/turtle_jellyfish/
+    - assets/lessons/ufo_alien/
+    - assets/lessons/umbrella_buddies/
+    - assets/lessons/unicorn_dragon/
+    - assets/lessons/web_cupcakes/
+    - assets/lessons/whale_dolphin/
+    - assets/lessons/whale_ride/
+    - assets/lessons/wizard_kittens/
+    - assets/lessons/yarn_nap_cat/
+    - assets/lessons/yellow_submarine/
+  fonts:
+    - family: Baloo
+      fonts:
+        - asset: assets/fonts/Baloo-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Baloo-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/Baloo-ExtraBold.ttf
+          weight: 800

@@ -1,0 +1,1778 @@
+[
+  {
+    "id": "balloon_bears",
+    "title": {
+      "en": "Balloon Bears",
+      "es": "Ositos con globos",
+      "pt": "Ursinhos com balões",
+      "fr": "Oursons aux ballons",
+      "de": "Ballon-Bären",
+      "vi": "Gấu con & Bóng bay",
+      "id": "Beruang Balon"
+    },
+    "category": "animal",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "cat_buddies",
+    "title": {
+      "en": "Cat Buddies",
+      "es": "Gatitos amigos",
+      "pt": "Gatinhos amigos",
+      "fr": "Chats copains",
+      "de": "Katzenfreunde",
+      "vi": "Đôi bạn mèo",
+      "id": "Sahabat Kucing"
+    },
+    "category": "animal",
+    "players": 2,
+    "size": 768,
+    "stepCount": 10
+  },
+  {
+    "id": "frog_pair",
+    "title": {
+      "en": "Frog Pair",
+      "es": "Pareja de ranas",
+      "pt": "Par de sapos",
+      "fr": "Duo de grenouilles",
+      "de": "Froschpaar",
+      "vi": "Đôi bạn ếch",
+      "id": "Sepasang Katak"
+    },
+    "category": "animal",
+    "players": 2,
+    "size": 768,
+    "stepCount": 8
+  },
+  {
+    "id": "hot_spring_capybara",
+    "title": {
+      "en": "Capybara Hot Spring",
+      "es": "Capibara en aguas termales",
+      "pt": "Capivara na fonte termal",
+      "fr": "Capybara aux sources chaudes",
+      "de": "Capybara im Thermalbad",
+      "vi": "Chuột lang nước tắm suối nóng",
+      "id": "Kapibara di Pemandian Air Panas"
+    },
+    "category": "animal",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "lion_tiger",
+    "title": {
+      "en": "Lion & Tiger",
+      "es": "León y tigre",
+      "pt": "Leão e tigre",
+      "fr": "Lion et tigre",
+      "de": "Löwe & Tiger",
+      "vi": "Sư tử & Hổ",
+      "id": "Singa & Harimau"
+    },
+    "category": "animal",
+    "players": 2,
+    "size": 768,
+    "stepCount": 12
+  },
+  {
+    "id": "owl_chick",
+    "title": {
+      "en": "Owl & Chick",
+      "es": "Búho y pollito",
+      "pt": "Coruja e pintinho",
+      "fr": "Hibou et poussin",
+      "de": "Eule & Küken",
+      "vi": "Cú mèo & Gà con",
+      "id": "Burung Hantu & Anak Ayam"
+    },
+    "category": "animal",
+    "players": 2,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "panda_koala",
+    "title": {
+      "en": "Panda & Koala",
+      "es": "Panda y koala",
+      "pt": "Panda e coala",
+      "fr": "Panda et koala",
+      "de": "Panda & Koala",
+      "vi": "Gấu trúc & Gấu túi",
+      "id": "Panda & Koala"
+    },
+    "category": "animal",
+    "players": 2,
+    "size": 768,
+    "stepCount": 8
+  },
+  {
+    "id": "penguin_pals",
+    "title": {
+      "en": "Penguin Pals",
+      "es": "Pingüinos amigos",
+      "pt": "Pinguins amigos",
+      "fr": "Pingouins copains",
+      "de": "Pinguinfreunde",
+      "vi": "Đôi bạn chim cánh cụt",
+      "id": "Sahabat Penguin"
+    },
+    "category": "animal",
+    "players": 2,
+    "size": 768,
+    "stepCount": 10
+  },
+  {
+    "id": "picnic_pals",
+    "title": {
+      "en": "Picnic Pals",
+      "es": "Amigos de pícnic",
+      "pt": "Amigos do piquenique",
+      "fr": "Copains de pique-nique",
+      "de": "Picknick-Freunde",
+      "vi": "Bạn dã ngoại",
+      "id": "Teman Piknik"
+    },
+    "category": "animal",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "puppy_kitty",
+    "title": {
+      "en": "Puppy & Kitty",
+      "es": "Perrito y gatito",
+      "pt": "Cachorro e gatinho",
+      "fr": "Chiot et chaton",
+      "de": "Welpe & Kätzchen",
+      "vi": "Cún & Mèo con",
+      "id": "Anak Anjing & Kucing"
+    },
+    "category": "animal",
+    "players": 2,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "scarf_kittens",
+    "title": {
+      "en": "Scarf Kittens",
+      "es": "Gatitos con bufanda",
+      "pt": "Gatinhos de cachecol",
+      "fr": "Chatons à l'écharpe",
+      "de": "Schal-Kätzchen",
+      "vi": "Mèo con quàng khăn",
+      "id": "Anak Kucing Berselendang"
+    },
+    "category": "animal",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "skating_penguins",
+    "title": {
+      "en": "Skating Penguins",
+      "es": "Pingüinos patinadores",
+      "pt": "Pinguins patinadores",
+      "fr": "Pingouins patineurs",
+      "de": "Eislauf-Pinguine",
+      "vi": "Chim cánh cụt trượt băng",
+      "id": "Penguin Berseluncur"
+    },
+    "category": "animal",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "umbrella_buddies",
+    "title": {
+      "en": "Umbrella Buddies",
+      "es": "Amigos bajo el paraguas",
+      "pt": "Amigos do guarda-chuva",
+      "fr": "Copains sous le parapluie",
+      "de": "Regenschirm-Freunde",
+      "vi": "Bạn chung ô",
+      "id": "Teman Sepayung"
+    },
+    "category": "animal",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "yarn_nap_cat",
+    "title": {
+      "en": "Yarn Nap Cat",
+      "es": "Gatito entre lanas",
+      "pt": "Gatinho no cesto de lã",
+      "fr": "Chaton dans la laine",
+      "de": "Wollkorb-Kätzchen",
+      "vi": "Mèo ngủ giỏ len",
+      "id": "Kucing Tidur di Benang"
+    },
+    "category": "animal",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "rainbow_slide",
+    "title": {
+      "en": "Rainbow Slide",
+      "es": "Tobogán arcoíris",
+      "pt": "Escorregador de arco-íris",
+      "fr": "Toboggan arc-en-ciel",
+      "de": "Regenbogenrutsche",
+      "vi": "Cầu trượt cầu vồng",
+      "id": "Seluncur Pelangi"
+    },
+    "category": "fantasy",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "tower_dragon",
+    "title": {
+      "en": "Tower Dragon",
+      "es": "Dragón de la torre",
+      "pt": "Dragão da torre",
+      "fr": "Dragon de la tour",
+      "de": "Turm-Drache",
+      "vi": "Rồng con & Tòa tháp",
+      "id": "Naga Menara"
+    },
+    "category": "fantasy",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "unicorn_dragon",
+    "title": {
+      "en": "Unicorn & Dragon",
+      "es": "Unicornio y dragón",
+      "pt": "Unicórnio e dragão",
+      "fr": "Licorne et dragon",
+      "de": "Einhorn & Drache",
+      "vi": "Kỳ lân & Rồng",
+      "id": "Unicorn & Naga"
+    },
+    "category": "fantasy",
+    "players": 2,
+    "size": 768,
+    "stepCount": 13
+  },
+  {
+    "id": "wizard_kittens",
+    "title": {
+      "en": "Wizard Kittens",
+      "es": "Gatitos magos",
+      "pt": "Gatinhos magos",
+      "fr": "Chatons sorciers",
+      "de": "Zauberer-Kätzchen",
+      "vi": "Mèo con phù thủy",
+      "id": "Anak Kucing Penyihir"
+    },
+    "category": "fantasy",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "best_friend_fruits",
+    "title": {
+      "en": "Fruit Best Friends",
+      "es": "Frutas mejores amigas",
+      "pt": "Frutas melhores amigas",
+      "fr": "Fruits meilleurs amis",
+      "de": "Beste Obstfreunde",
+      "vi": "Đôi bạn trái cây",
+      "id": "Sahabat Buah"
+    },
+    "category": "food",
+    "players": 2,
+    "size": 768,
+    "stepCount": 12
+  },
+  {
+    "id": "birthday_cake",
+    "title": {
+      "en": "Birthday Cake",
+      "es": "Pastel de cumpleaños",
+      "pt": "Bolo de aniversário",
+      "fr": "Gâteau d'anniversaire",
+      "de": "Geburtstagstorte",
+      "vi": "Bánh sinh nhật",
+      "id": "Kue Ulang Tahun"
+    },
+    "category": "food",
+    "players": 1,
+    "size": 768,
+    "stepCount": 13
+  },
+  {
+    "id": "burger_fries",
+    "title": {
+      "en": "Burger & Fries",
+      "es": "Hamburguesa y papas",
+      "pt": "Hambúrguer e batata frita",
+      "fr": "Burger et frites",
+      "de": "Burger & Pommes",
+      "vi": "Bánh burger & Khoai tây chiên",
+      "id": "Burger & Kentang Goreng"
+    },
+    "category": "food",
+    "players": 2,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "cupcake",
+    "title": {
+      "en": "Happy Cupcake",
+      "es": "Cupcake feliz",
+      "pt": "Cupcake feliz",
+      "fr": "Cupcake joyeux",
+      "de": "Fröhlicher Cupcake",
+      "vi": "Bánh cupcake vui vẻ",
+      "id": "Cupcake Ceria"
+    },
+    "category": "food",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "donut_hamsters",
+    "title": {
+      "en": "Donut Hamsters",
+      "es": "Hámsteres con dona",
+      "pt": "Hamsters do donut",
+      "fr": "Hamsters au donut",
+      "de": "Donut-Hamster",
+      "vi": "Chuột hamster & Bánh donut",
+      "id": "Hamster dan Donat"
+    },
+    "category": "food",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "ice_cream",
+    "title": {
+      "en": "Ice Cream",
+      "es": "Helado",
+      "pt": "Sorvete",
+      "fr": "Glace",
+      "de": "Eis",
+      "vi": "Kem ốc quế",
+      "id": "Es Krim"
+    },
+    "category": "food",
+    "players": 1,
+    "size": 768,
+    "stepCount": 6
+  },
+  {
+    "id": "icecream_dino",
+    "title": {
+      "en": "Ice Cream Dino",
+      "es": "Dino con helado",
+      "pt": "Dino do sorvete",
+      "fr": "Dino à la glace",
+      "de": "Eis-Dino",
+      "vi": "Khủng long & Kem",
+      "id": "Dino Es Krim"
+    },
+    "category": "food",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "melon_berry",
+    "title": {
+      "en": "Melon & Berry",
+      "es": "Sandía y fresa",
+      "pt": "Melancia e morango",
+      "fr": "Pastèque et fraise",
+      "de": "Melone & Erdbeere",
+      "vi": "Dưa hấu & Dâu tây",
+      "id": "Semangka & Stroberi"
+    },
+    "category": "food",
+    "players": 2,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "pancake_bears",
+    "title": {
+      "en": "Pancake Bears",
+      "es": "Osos con tortitas",
+      "pt": "Ursos das panquecas",
+      "fr": "Ours aux crêpes",
+      "de": "Pfannkuchen-Bären",
+      "vi": "Gấu & Bánh kếp",
+      "id": "Beruang Panekuk"
+    },
+    "category": "food",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "pizza",
+    "title": {
+      "en": "Pizza Slice",
+      "es": "Porción de pizza",
+      "pt": "Fatia de pizza",
+      "fr": "Part de pizza",
+      "de": "Pizzastück",
+      "vi": "Miếng pizza",
+      "id": "Potongan Pizza"
+    },
+    "category": "food",
+    "players": 1,
+    "size": 768,
+    "stepCount": 8
+  },
+  {
+    "id": "pizza_pals",
+    "title": {
+      "en": "Pizza Pals",
+      "es": "Amigos de la pizza",
+      "pt": "Amigos da pizza",
+      "fr": "Copains de la pizza",
+      "de": "Pizza-Freunde",
+      "vi": "Bạn chung pizza",
+      "id": "Teman Pizza"
+    },
+    "category": "food",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "sushi_kittens",
+    "title": {
+      "en": "Sushi Kittens",
+      "es": "Gatitos con sushi",
+      "pt": "Gatinhos do sushi",
+      "fr": "Chatons sushi",
+      "de": "Sushi-Kätzchen",
+      "vi": "Mèo con & Sushi",
+      "id": "Anak Kucing Sushi"
+    },
+    "category": "food",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "teacup_bunnies",
+    "title": {
+      "en": "Teacup Bunnies",
+      "es": "Conejitos en la taza",
+      "pt": "Coelhinhos na xícara",
+      "fr": "Lapins dans la tasse",
+      "de": "Tassen-Häschen",
+      "vi": "Thỏ con trong tách trà",
+      "id": "Kelinci dalam Cangkir"
+    },
+    "category": "food",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "duo_kitty_kuromi_snowman",
+    "title": {
+      "en": "Snowman Pals",
+      "es": "Amigas del muñeco de nieve",
+      "pt": "Amigas do boneco de neve",
+      "fr": "Copines bonhomme de neige",
+      "de": "Schneemann-Freunde",
+      "vi": "Bạn người tuyết",
+      "id": "Sahabat Boneka Salju"
+    },
+    "category": "hellokitty",
+    "players": 2,
+    "size": 768,
+    "stepCount": 12
+  },
+  {
+    "id": "duo_kitty_melody_picnic",
+    "title": {
+      "en": "Kitty & Melody Picnic",
+      "es": "Picnic de Kitty y Melody",
+      "pt": "Piquenique de Kitty e Melody",
+      "fr": "Pique-nique de Kitty et Melody",
+      "de": "Kitty & Melodys Picknick",
+      "vi": "Kitty & Melody đi dã ngoại",
+      "id": "Piknik Kitty & Melody"
+    },
+    "category": "hellokitty",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "hellokitty_book",
+    "title": {
+      "en": "Hello Kitty Reads",
+      "es": "Hello Kitty lee",
+      "pt": "Hello Kitty lê",
+      "fr": "Hello Kitty lit",
+      "de": "Hello Kitty liest",
+      "vi": "Hello Kitty đọc sách",
+      "id": "Hello Kitty Membaca"
+    },
+    "category": "hellokitty",
+    "players": 1,
+    "size": 768,
+    "stepCount": 9
+  },
+  {
+    "id": "hellokitty_cupcake",
+    "title": {
+      "en": "Hello Kitty's Cupcake",
+      "es": "El cupcake de Hello Kitty",
+      "pt": "O cupcake da Hello Kitty",
+      "fr": "Le cupcake de Hello Kitty",
+      "de": "Hello Kittys Cupcake",
+      "vi": "Bánh cupcake của Hello Kitty",
+      "id": "Cupcake Hello Kitty"
+    },
+    "category": "hellokitty",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "hellokitty_garden",
+    "title": {
+      "en": "Hello Kitty's Garden",
+      "es": "El jardín de Hello Kitty",
+      "pt": "O jardim da Hello Kitty",
+      "fr": "Le jardin de Hello Kitty",
+      "de": "Hello Kittys Garten",
+      "vi": "Khu vườn của Hello Kitty",
+      "id": "Kebun Hello Kitty"
+    },
+    "category": "hellokitty",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "hellokitty_wave",
+    "title": {
+      "en": "Hello Kitty Says Hi",
+      "es": "Hello Kitty te saluda",
+      "pt": "Hello Kitty diz oi",
+      "fr": "Hello Kitty dit bonjour",
+      "de": "Hello Kitty sagt Hallo",
+      "vi": "Hello Kitty chào bạn",
+      "id": "Hello Kitty Menyapa"
+    },
+    "category": "hellokitty",
+    "players": 1,
+    "size": 768,
+    "stepCount": 9
+  },
+  {
+    "id": "jet_bear",
+    "title": {
+      "en": "Jet Boot Bear",
+      "es": "Osito con botas cohete",
+      "pt": "Ursinho de botas a jato",
+      "fr": "Ourson aux bottes-fusées",
+      "de": "Düsenstiefel-Bär",
+      "vi": "Gấu giày phản lực",
+      "id": "Beruang Sepatu Jet"
+    },
+    "category": "hero",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "moon_car",
+    "title": {
+      "en": "Midnight Racer",
+      "es": "Bólido de medianoche",
+      "pt": "Bólido da meia-noite",
+      "fr": "Bolide de minuit",
+      "de": "Mitternachtsflitzer",
+      "vi": "Xe đua nửa đêm",
+      "id": "Mobil Balap Tengah Malam"
+    },
+    "category": "hero",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "night_owls",
+    "title": {
+      "en": "Night Owl Heroes",
+      "es": "Búhos héroes de la noche",
+      "pt": "Corujas heroínas da noite",
+      "fr": "Hiboux héros de la nuit",
+      "de": "Eulen-Helden der Nacht",
+      "vi": "Cú mèo anh hùng bóng đêm",
+      "id": "Burung Hantu Pahlawan Malam"
+    },
+    "category": "hero",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "robot_buddies",
+    "title": {
+      "en": "Rocket Robots",
+      "es": "Robots cohete",
+      "pt": "Robôs foguete",
+      "fr": "Robots fusées",
+      "de": "Raketen-Roboter",
+      "vi": "Rô-bốt tên lửa",
+      "id": "Robot Roket"
+    },
+    "category": "hero",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "shield_turtles",
+    "title": {
+      "en": "Shield Turtles",
+      "es": "Tortugas escudo",
+      "pt": "Tartarugas escudo",
+      "fr": "Tortues boucliers",
+      "de": "Schild-Schildkröten",
+      "vi": "Rùa khiên",
+      "id": "Kura-kura Perisai"
+    },
+    "category": "hero",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "spider_pals",
+    "title": {
+      "en": "Web Hammock Pals",
+      "es": "Amigos en la hamaca de telaraña",
+      "pt": "Amigos na rede de teia",
+      "fr": "Amis dans le hamac-toile",
+      "de": "Netz-Hängematten-Freunde",
+      "vi": "Đôi bạn võng mạng nhện",
+      "id": "Sahabat Hammock Jaring"
+    },
+    "category": "hero",
+    "players": 2,
+    "size": 768,
+    "stepCount": 13
+  },
+  {
+    "id": "star_pancakes",
+    "title": {
+      "en": "Star Pancakes",
+      "es": "Tortitas con estrella",
+      "pt": "Panquecas com estrela",
+      "fr": "Pancakes étoilés",
+      "de": "Sternen-Pfannkuchen",
+      "vi": "Bánh kếp ngôi sao",
+      "id": "Panekuk Bintang"
+    },
+    "category": "hero",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "web_cupcakes",
+    "title": {
+      "en": "Web Cupcakes",
+      "es": "Cupcakes de telaraña",
+      "pt": "Cupcakes de teia",
+      "fr": "Cupcakes toile d'araignée",
+      "de": "Spinnennetz-Cupcakes",
+      "vi": "Bánh cupcake mạng nhện",
+      "id": "Cupcake Jaring Laba-laba"
+    },
+    "category": "hero",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "duo_kuromi_kitty_dance",
+    "title": {
+      "en": "Kuromi & Kitty Dance",
+      "es": "Kuromi y Kitty bailan",
+      "pt": "Kuromi e Kitty dançam",
+      "fr": "Kuromi et Kitty dansent",
+      "de": "Kuromi & Kitty tanzen",
+      "vi": "Kuromi & Kitty nhảy múa",
+      "id": "Kuromi & Kitty Menari"
+    },
+    "category": "kuromi",
+    "players": 2,
+    "size": 768,
+    "stepCount": 10
+  },
+  {
+    "id": "kuromi_guitar",
+    "title": {
+      "en": "Kuromi Rocks",
+      "es": "Kuromi rockera",
+      "pt": "Kuromi roqueira",
+      "fr": "Kuromi rockeuse",
+      "de": "Kuromi rockt",
+      "vi": "Kuromi chơi đàn",
+      "id": "Kuromi Bermain Gitar"
+    },
+    "category": "kuromi",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "kuromi_lollipop",
+    "title": {
+      "en": "Kuromi's Lollipop",
+      "es": "La piruleta de Kuromi",
+      "pt": "O pirulito da Kuromi",
+      "fr": "La sucette de Kuromi",
+      "de": "Kuromis Lutscher",
+      "vi": "Kẹo mút của Kuromi",
+      "id": "Lolipop Kuromi"
+    },
+    "category": "kuromi",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "kuromi_peace",
+    "title": {
+      "en": "Kuromi Peace",
+      "es": "Kuromi hace la paz",
+      "pt": "Kuromi faz paz e amor",
+      "fr": "Kuromi fait le V",
+      "de": "Kuromi Peace",
+      "vi": "Kuromi giơ tay chữ V",
+      "id": "Kuromi Damai"
+    },
+    "category": "kuromi",
+    "players": 1,
+    "size": 768,
+    "stepCount": 8
+  },
+  {
+    "id": "kuromi_wand",
+    "title": {
+      "en": "Kuromi's Magic Wand",
+      "es": "La varita mágica de Kuromi",
+      "pt": "A varinha mágica da Kuromi",
+      "fr": "La baguette magique de Kuromi",
+      "de": "Kuromis Zauberstab",
+      "vi": "Đũa phép của Kuromi",
+      "id": "Tongkat Ajaib Kuromi"
+    },
+    "category": "kuromi",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "labubu_balloons",
+    "title": {
+      "en": "Labubu Balloons",
+      "es": "Labubu con globos",
+      "pt": "Labubu com balões",
+      "fr": "Labubu et ses ballons",
+      "de": "Labubu mit Luftballons",
+      "vi": "Labubu & bóng bay",
+      "id": "Labubu dan Balon"
+    },
+    "category": "labubu",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "labubu_duo_balloon",
+    "title": {
+      "en": "Labubu Heart Balloon",
+      "es": "El globo corazón de los Labubu",
+      "pt": "O balão de coração dos Labubu",
+      "fr": "Le ballon cœur des Labubu",
+      "de": "Labubus Herzballon",
+      "vi": "Bóng bay trái tim của Labubu",
+      "id": "Balon Hati Labubu"
+    },
+    "category": "labubu",
+    "players": 2,
+    "size": 768,
+    "stepCount": 13
+  },
+  {
+    "id": "labubu_duo_hug",
+    "title": {
+      "en": "Labubu High Five",
+      "es": "Labubu chocan los cinco",
+      "pt": "Labubu toca aqui",
+      "fr": "Labubu tope là",
+      "de": "Labubu High Five",
+      "vi": "Labubu đập tay",
+      "id": "Tos Labubu"
+    },
+    "category": "labubu",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "labubu_duo_icecream",
+    "title": {
+      "en": "Labubu Ice Cream Date",
+      "es": "Helado para dos Labubu",
+      "pt": "Sorvete dos Labubu",
+      "fr": "Glace à deux Labubu",
+      "de": "Labubu-Eis zu zweit",
+      "vi": "Labubu chung kem",
+      "id": "Es Krim Berdua Labubu"
+    },
+    "category": "labubu",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "labubu_duo_seesaw",
+    "title": {
+      "en": "Labubu Seesaw",
+      "es": "Labubu en el balancín",
+      "pt": "Labubu na gangorra",
+      "fr": "Labubu à la bascule",
+      "de": "Labubu auf der Wippe",
+      "vi": "Labubu chơi bập bênh",
+      "id": "Labubu Main Jungkat-jungkit"
+    },
+    "category": "labubu",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "labubu_painter",
+    "title": {
+      "en": "Labubu the Painter",
+      "es": "Labubu pintor",
+      "pt": "Labubu pintor",
+      "fr": "Labubu le peintre",
+      "de": "Labubu der Maler",
+      "vi": "Labubu họa sĩ",
+      "id": "Labubu Sang Pelukis"
+    },
+    "category": "labubu",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "labubu_star",
+    "title": {
+      "en": "Labubu Star Hug",
+      "es": "Labubu abraza una estrella",
+      "pt": "Labubu abraça uma estrela",
+      "fr": "Labubu fait un câlin à l'étoile",
+      "de": "Labubu umarmt einen Stern",
+      "vi": "Labubu ôm ngôi sao",
+      "id": "Labubu Memeluk Bintang"
+    },
+    "category": "labubu",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "labubu_wave",
+    "title": {
+      "en": "Labubu Says Hi",
+      "es": "Labubu te saluda",
+      "pt": "Labubu diz oi",
+      "fr": "Labubu dit bonjour",
+      "de": "Labubu sagt Hallo",
+      "vi": "Labubu chào bạn",
+      "id": "Labubu Menyapa"
+    },
+    "category": "labubu",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "duo_melody_kuromi_cake",
+    "title": {
+      "en": "Melody & Kuromi's Cake",
+      "es": "El pastel de Melody y Kuromi",
+      "pt": "O bolo de Melody e Kuromi",
+      "fr": "Le gâteau de Melody et Kuromi",
+      "de": "Melody & Kuromis Kuchen",
+      "vi": "Bánh kem của Melody & Kuromi",
+      "id": "Kue Melody & Kuromi"
+    },
+    "category": "mymelody",
+    "players": 2,
+    "size": 768,
+    "stepCount": 13
+  },
+  {
+    "id": "mymelody_cookies",
+    "title": {
+      "en": "My Melody Bakes",
+      "es": "My Melody hornea",
+      "pt": "My Melody faz biscoitos",
+      "fr": "My Melody pâtisse",
+      "de": "My Melody backt",
+      "vi": "My Melody nướng bánh",
+      "id": "My Melody Membuat Kue"
+    },
+    "category": "mymelody",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "mymelody_heart",
+    "title": {
+      "en": "My Melody's Heart",
+      "es": "El corazón de My Melody",
+      "pt": "O coração da My Melody",
+      "fr": "Le cœur de My Melody",
+      "de": "My Melodys Herz",
+      "vi": "Trái tim của My Melody",
+      "id": "Hati My Melody"
+    },
+    "category": "mymelody",
+    "players": 1,
+    "size": 768,
+    "stepCount": 8
+  },
+  {
+    "id": "mymelody_strawberry",
+    "title": {
+      "en": "My Melody's Strawberry",
+      "es": "La fresa de My Melody",
+      "pt": "O morango da My Melody",
+      "fr": "La fraise de My Melody",
+      "de": "My Melodys Erdbeere",
+      "vi": "Quả dâu của My Melody",
+      "id": "Stroberi My Melody"
+    },
+    "category": "mymelody",
+    "players": 1,
+    "size": 768,
+    "stepCount": 10
+  },
+  {
+    "id": "mymelody_tea",
+    "title": {
+      "en": "My Melody's Tea Time",
+      "es": "La hora del té de My Melody",
+      "pt": "A hora do chá da My Melody",
+      "fr": "L'heure du thé de My Melody",
+      "de": "My Melodys Teezeit",
+      "vi": "Giờ uống trà của My Melody",
+      "id": "Waktu Minum Teh My Melody"
+    },
+    "category": "mymelody",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "acorn_picnic",
+    "title": {
+      "en": "Acorn Picnic",
+      "es": "Picnic de bellotas",
+      "pt": "Piquenique de bolotas",
+      "fr": "Pique-nique de glands",
+      "de": "Eichel-Picknick",
+      "vi": "Dã ngoại hạt sồi",
+      "id": "Piknik Biji Ek"
+    },
+    "category": "nature",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "butterfly",
+    "title": {
+      "en": "Butterfly",
+      "es": "Mariposa",
+      "pt": "Borboleta",
+      "fr": "Papillon",
+      "de": "Schmetterling",
+      "vi": "Con bướm",
+      "id": "Kupu-kupu"
+    },
+    "category": "nature",
+    "players": 1,
+    "size": 768,
+    "stepCount": 8
+  },
+  {
+    "id": "cactus",
+    "title": {
+      "en": "Cactus",
+      "es": "Cactus",
+      "pt": "Cacto",
+      "fr": "Cactus",
+      "de": "Kaktus",
+      "vi": "Xương rồng",
+      "id": "Kaktus"
+    },
+    "category": "nature",
+    "players": 1,
+    "size": 768,
+    "stepCount": 7
+  },
+  {
+    "id": "cactus_buddies",
+    "title": {
+      "en": "Cactus Buddies",
+      "es": "Cactus amigos",
+      "pt": "Cactos amigos",
+      "fr": "Cactus copains",
+      "de": "Kaktus-Freunde",
+      "vi": "Đôi bạn xương rồng",
+      "id": "Sahabat Kaktus"
+    },
+    "category": "nature",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "flower_bees",
+    "title": {
+      "en": "Flower Bees",
+      "es": "Abejas con flor",
+      "pt": "Abelhas da flor",
+      "fr": "Abeilles à la fleur",
+      "de": "Blumen-Bienen",
+      "vi": "Ong & Bông hoa",
+      "id": "Lebah Bunga"
+    },
+    "category": "nature",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "forest_cabin",
+    "title": {
+      "en": "Forest Cabin",
+      "es": "Cabaña del bosque",
+      "pt": "Cabana na floresta",
+      "fr": "Cabane en forêt",
+      "de": "Waldhütte",
+      "vi": "Căn nhà gỗ trong rừng",
+      "id": "Pondok Hutan"
+    },
+    "category": "nature",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "garden_turtle",
+    "title": {
+      "en": "Garden Turtle",
+      "es": "Tortuga jardinera",
+      "pt": "Tartaruga jardineira",
+      "fr": "Tortue jardin",
+      "de": "Garten-Schildkröte",
+      "vi": "Rùa vườn hoa",
+      "id": "Kura-kura Kebun"
+    },
+    "category": "nature",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "ladybug",
+    "title": {
+      "en": "Ladybug",
+      "es": "Mariquita",
+      "pt": "Joaninha",
+      "fr": "Coccinelle",
+      "de": "Marienkäfer",
+      "vi": "Bọ rùa",
+      "id": "Kepik"
+    },
+    "category": "nature",
+    "players": 1,
+    "size": 768,
+    "stepCount": 7
+  },
+  {
+    "id": "leaf_umbrella_frogs",
+    "title": {
+      "en": "Leaf Umbrella Frogs",
+      "es": "Ranas con paraguas de hoja",
+      "pt": "Sapos com guarda-chuva de folha",
+      "fr": "Grenouilles au parapluie-feuille",
+      "de": "Frösche mit Blattschirm",
+      "vi": "Ếch che ô lá",
+      "id": "Katak Payung Daun"
+    },
+    "category": "nature",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "letter_snail",
+    "title": {
+      "en": "Snail Mail",
+      "es": "Caracol cartero",
+      "pt": "Caracol carteiro",
+      "fr": "Escargot facteur",
+      "de": "Schnecken-Post",
+      "vi": "Ốc sên đưa thư",
+      "id": "Siput Pos"
+    },
+    "category": "nature",
+    "players": 1,
+    "size": 768,
+    "stepCount": 10
+  },
+  {
+    "id": "mushroom",
+    "title": {
+      "en": "Mushroom",
+      "es": "Seta",
+      "pt": "Cogumelo",
+      "fr": "Champignon",
+      "de": "Pilz",
+      "vi": "Cây nấm",
+      "id": "Jamur"
+    },
+    "category": "nature",
+    "players": 1,
+    "size": 768,
+    "stepCount": 7
+  },
+  {
+    "id": "rainbow_garden",
+    "title": {
+      "en": "Rainbow Garden",
+      "es": "Jardín arcoíris",
+      "pt": "Jardim arco-íris",
+      "fr": "Jardin arc-en-ciel",
+      "de": "Regenbogengarten",
+      "vi": "Khu vườn cầu vồng",
+      "id": "Taman Pelangi"
+    },
+    "category": "nature",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "sandcastle_pals",
+    "title": {
+      "en": "Sandcastle Pals",
+      "es": "Amigos del castillo de arena",
+      "pt": "Amigos do castelo de areia",
+      "fr": "Copains du château de sable",
+      "de": "Sandburg-Freunde",
+      "vi": "Bạn xây lâu đài cát",
+      "id": "Teman Istana Pasir"
+    },
+    "category": "nature",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "sunflower",
+    "title": {
+      "en": "Sunflower",
+      "es": "Girasol",
+      "pt": "Girassol",
+      "fr": "Tournesol",
+      "de": "Sonnenblume",
+      "vi": "Hoa hướng dương",
+      "id": "Bunga Matahari"
+    },
+    "category": "nature",
+    "players": 1,
+    "size": 768,
+    "stepCount": 8
+  },
+  {
+    "id": "sunflower_friends",
+    "title": {
+      "en": "Sunflower Friends",
+      "es": "Amigos del girasol",
+      "pt": "Amigos do girassol",
+      "fr": "Amis du tournesol",
+      "de": "Sonnenblumen-Freunde",
+      "vi": "Đôi bạn hoa hướng dương",
+      "id": "Sahabat Bunga Matahari"
+    },
+    "category": "nature",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "neon_butterfly",
+    "title": {
+      "en": "Neon Butterfly",
+      "es": "Mariposa de neón",
+      "pt": "Borboleta neon",
+      "fr": "Papillon néon",
+      "de": "Neon-Schmetterling",
+      "vi": "Bướm neon",
+      "id": "Kupu-kupu Neon"
+    },
+    "category": "neon",
+    "players": 1,
+    "size": 768,
+    "stepCount": 3
+  },
+  {
+    "id": "neon_cat",
+    "title": {
+      "en": "Neon Cat",
+      "es": "Gato de neón",
+      "pt": "Gato neon",
+      "fr": "Chat néon",
+      "de": "Neon-Katze",
+      "vi": "Mèo neon",
+      "id": "Kucing Neon"
+    },
+    "category": "neon",
+    "players": 1,
+    "size": 768,
+    "stepCount": 3
+  },
+  {
+    "id": "neon_crown",
+    "title": {
+      "en": "Neon Crown",
+      "es": "Corona de neón",
+      "pt": "Coroa neon",
+      "fr": "Couronne néon",
+      "de": "Neon-Krone",
+      "vi": "Vương miện neon",
+      "id": "Mahkota Neon"
+    },
+    "category": "neon",
+    "players": 1,
+    "size": 768,
+    "stepCount": 4
+  },
+  {
+    "id": "neon_fish",
+    "title": {
+      "en": "Neon Fish",
+      "es": "Pez de neón",
+      "pt": "Peixe neon",
+      "fr": "Poisson néon",
+      "de": "Neon-Fisch",
+      "vi": "Cá neon",
+      "id": "Ikan Neon"
+    },
+    "category": "neon",
+    "players": 1,
+    "size": 768,
+    "stepCount": 2
+  },
+  {
+    "id": "neon_planet",
+    "title": {
+      "en": "Neon Planet",
+      "es": "Planeta de neón",
+      "pt": "Planeta neon",
+      "fr": "Planète néon",
+      "de": "Neon-Planet",
+      "vi": "Hành tinh neon",
+      "id": "Planet Neon"
+    },
+    "category": "neon",
+    "players": 1,
+    "size": 768,
+    "stepCount": 3
+  },
+  {
+    "id": "neon_rocket",
+    "title": {
+      "en": "Neon Rocket",
+      "es": "Cohete de neón",
+      "pt": "Foguete neon",
+      "fr": "Fusée néon",
+      "de": "Neon-Rakete",
+      "vi": "Tên lửa neon",
+      "id": "Roket Neon"
+    },
+    "category": "neon",
+    "players": 1,
+    "size": 768,
+    "stepCount": 3
+  },
+  {
+    "id": "neon_storm",
+    "title": {
+      "en": "Neon Storm Cloud",
+      "es": "Nube de tormenta de neón",
+      "pt": "Nuvem de tempestade neon",
+      "fr": "Nuage d'orage néon",
+      "de": "Neon-Gewitterwolke",
+      "vi": "Mây giông neon",
+      "id": "Awan Badai Neon"
+    },
+    "category": "neon",
+    "players": 1,
+    "size": 768,
+    "stepCount": 2
+  },
+  {
+    "id": "neon_watermelon",
+    "title": {
+      "en": "Neon Watermelon",
+      "es": "Sandía de neón",
+      "pt": "Melancia neon",
+      "fr": "Pastèque néon",
+      "de": "Neon-Wassermelone",
+      "vi": "Dưa hấu neon",
+      "id": "Semangka Neon"
+    },
+    "category": "neon",
+    "players": 1,
+    "size": 768,
+    "stepCount": 2
+  },
+  {
+    "id": "coral_reef",
+    "title": {
+      "en": "Coral Reef",
+      "es": "Arrecife de coral",
+      "pt": "Recife de coral",
+      "fr": "Récif de corail",
+      "de": "Korallenriff",
+      "vi": "Rạn san hô",
+      "id": "Terumbu Karang"
+    },
+    "category": "sea",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "fish_octopus",
+    "title": {
+      "en": "Fish & Octopus",
+      "es": "Pez y pulpo",
+      "pt": "Peixe e polvo",
+      "fr": "Poisson et pieuvre",
+      "de": "Fisch & Krake",
+      "vi": "Cá & Bạch tuộc",
+      "id": "Ikan & Gurita"
+    },
+    "category": "sea",
+    "players": 2,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "octopus_tea",
+    "title": {
+      "en": "Octopus Tea Time",
+      "es": "La hora del té del pulpo",
+      "pt": "Chá do polvo",
+      "fr": "Le thé de la pieuvre",
+      "de": "Teezeit mit Krake",
+      "vi": "Bạch tuộc uống trà",
+      "id": "Waktu Teh Gurita"
+    },
+    "category": "sea",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "otter_float",
+    "title": {
+      "en": "Floating Otters",
+      "es": "Nutrias flotando",
+      "pt": "Lontras boiando",
+      "fr": "Loutres qui flottent",
+      "de": "Treibende Otter",
+      "vi": "Rái cá nổi trên nước",
+      "id": "Berang-berang Mengapung"
+    },
+    "category": "sea",
+    "players": 2,
+    "size": 768,
+    "stepCount": 13
+  },
+  {
+    "id": "turtle_crab",
+    "title": {
+      "en": "Turtle & Crab",
+      "es": "Tortuga y cangrejo",
+      "pt": "Tartaruga e caranguejo",
+      "fr": "Tortue et crabe",
+      "de": "Schildkröte & Krabbe",
+      "vi": "Rùa & Cua",
+      "id": "Kura-kura & Kepiting"
+    },
+    "category": "sea",
+    "players": 2,
+    "size": 768,
+    "stepCount": 8
+  },
+  {
+    "id": "turtle_jellyfish",
+    "title": {
+      "en": "Turtle & Jellyfish",
+      "es": "Tortuga y medusa",
+      "pt": "Tartaruga e água-viva",
+      "fr": "Tortue et méduse",
+      "de": "Schildkröte & Qualle",
+      "vi": "Rùa & Sứa",
+      "id": "Penyu & Ubur-ubur"
+    },
+    "category": "sea",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "whale_dolphin",
+    "title": {
+      "en": "Whale & Dolphin",
+      "es": "Ballena y delfín",
+      "pt": "Baleia e golfinho",
+      "fr": "Baleine et dauphin",
+      "de": "Wal & Delfin",
+      "vi": "Cá voi & Cá heo",
+      "id": "Paus & Lumba-lumba"
+    },
+    "category": "sea",
+    "players": 2,
+    "size": 768,
+    "stepCount": 9
+  },
+  {
+    "id": "whale_ride",
+    "title": {
+      "en": "Whale Ride",
+      "es": "Paseo en ballena",
+      "pt": "Passeio de baleia",
+      "fr": "Balade en baleine",
+      "de": "Walritt",
+      "vi": "Cưỡi cá voi",
+      "id": "Naik Paus"
+    },
+    "category": "sea",
+    "players": 2,
+    "size": 768,
+    "stepCount": 12
+  },
+  {
+    "id": "yellow_submarine",
+    "title": {
+      "en": "Little Submarine",
+      "es": "Pequeño submarino",
+      "pt": "Pequeno submarino",
+      "fr": "Petit sous-marin",
+      "de": "Kleines U-Boot",
+      "vi": "Tàu ngầm nhỏ",
+      "id": "Kapal Selam Kecil"
+    },
+    "category": "sea",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "moon_bunnies",
+    "title": {
+      "en": "Moon Bunnies",
+      "es": "Conejitos en la luna",
+      "pt": "Coelhinhos na lua",
+      "fr": "Lapins sur la lune",
+      "de": "Mond-Häschen",
+      "vi": "Thỏ con trên mặt trăng",
+      "id": "Kelinci di Bulan"
+    },
+    "category": "space",
+    "players": 2,
+    "size": 768,
+    "stepCount": 12
+  },
+  {
+    "id": "planet",
+    "title": {
+      "en": "Ringed Planet",
+      "es": "Planeta con anillos",
+      "pt": "Planeta com anéis",
+      "fr": "Planète à anneaux",
+      "de": "Ringplanet",
+      "vi": "Hành tinh có vành",
+      "id": "Planet Bercincin"
+    },
+    "category": "space",
+    "players": 1,
+    "size": 768,
+    "stepCount": 7
+  },
+  {
+    "id": "rocket",
+    "title": {
+      "en": "Space Rocket",
+      "es": "Cohete espacial",
+      "pt": "Foguete espacial",
+      "fr": "Fusée spatiale",
+      "de": "Weltraumrakete",
+      "vi": "Tên lửa vũ trụ",
+      "id": "Roket Luar Angkasa"
+    },
+    "category": "space",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "rocket_pets",
+    "title": {
+      "en": "Rocket Pets",
+      "es": "Mascotas en cohete",
+      "pt": "Pets no foguete",
+      "fr": "Animaux en fusée",
+      "de": "Raketen-Haustiere",
+      "vi": "Thú cưng trên tên lửa",
+      "id": "Hewan di Roket"
+    },
+    "category": "space",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "ufo_alien",
+    "title": {
+      "en": "UFO & Alien",
+      "es": "OVNI y alienígena",
+      "pt": "OVNI e alienígena",
+      "fr": "OVNI et extraterrestre",
+      "de": "UFO & Alien",
+      "vi": "UFO & Người ngoài hành tinh",
+      "id": "UFO & Alien"
+    },
+    "category": "space",
+    "players": 2,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "car_bus",
+    "title": {
+      "en": "Car & Bus",
+      "es": "Coche y autobús",
+      "pt": "Carro e ônibus",
+      "fr": "Voiture et bus",
+      "de": "Auto & Bus",
+      "vi": "Ô tô & Xe buýt",
+      "id": "Mobil & Bus"
+    },
+    "category": "vehicle",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "fire_truck_pups",
+    "title": {
+      "en": "Fire Truck Pups",
+      "es": "Cachorros bomberos",
+      "pt": "Cachorrinhos bombeiros",
+      "fr": "Chiots pompiers",
+      "de": "Feuerwehr-Welpen",
+      "vi": "Cún con lính cứu hỏa",
+      "id": "Anak Anjing Pemadam"
+    },
+    "category": "vehicle",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "hot_air_chicks",
+    "title": {
+      "en": "Balloon Ride Chicks",
+      "es": "Pollitos en globo",
+      "pt": "Pintinhos no balão",
+      "fr": "Poussins en montgolfière",
+      "de": "Küken im Heißluftballon",
+      "vi": "Gà con đi khinh khí cầu",
+      "id": "Anak Ayam Naik Balon"
+    },
+    "category": "vehicle",
+    "players": 2,
+    "size": 768,
+    "stepCount": 9
+  },
+  {
+    "id": "paper_boat_duck",
+    "title": {
+      "en": "Paper Boat Duck",
+      "es": "Patito en barco de papel",
+      "pt": "Patinho no barco de papel",
+      "fr": "Canard en bateau de papier",
+      "de": "Papierboot-Ente",
+      "vi": "Vịt con & Thuyền giấy",
+      "id": "Bebek Perahu Kertas"
+    },
+    "category": "vehicle",
+    "players": 1,
+    "size": 768,
+    "stepCount": 10
+  },
+  {
+    "id": "plane_trip",
+    "title": {
+      "en": "Plane Trip",
+      "es": "Viaje en avión",
+      "pt": "Viagem de avião",
+      "fr": "Voyage en avion",
+      "de": "Flugreise",
+      "vi": "Chuyến bay vui vẻ",
+      "id": "Perjalanan Pesawat"
+    },
+    "category": "vehicle",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "pumpkin_tractor",
+    "title": {
+      "en": "Pumpkin Tractor",
+      "es": "Tractor de calabazas",
+      "pt": "Trator de abóboras",
+      "fr": "Tracteur à citrouilles",
+      "de": "Kürbis-Traktor",
+      "vi": "Máy cày chở bí ngô",
+      "id": "Traktor Labu"
+    },
+    "category": "vehicle",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "sailboat",
+    "title": {
+      "en": "Sailboat",
+      "es": "Velero",
+      "pt": "Veleiro",
+      "fr": "Voilier",
+      "de": "Segelboot",
+      "vi": "Thuyền buồm",
+      "id": "Perahu Layar"
+    },
+    "category": "vehicle",
+    "players": 1,
+    "size": 768,
+    "stepCount": 9
+  },
+  {
+    "id": "school_bus",
+    "title": {
+      "en": "Happy School Bus",
+      "es": "Autobús escolar feliz",
+      "pt": "Ônibus escolar feliz",
+      "fr": "Bus scolaire joyeux",
+      "de": "Fröhlicher Schulbus",
+      "vi": "Xe buýt trường học vui vẻ",
+      "id": "Bus Sekolah Ceria"
+    },
+    "category": "vehicle",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  },
+  {
+    "id": "tandem_bunnies",
+    "title": {
+      "en": "Tandem Bike Bunnies",
+      "es": "Conejitos en tándem",
+      "pt": "Coelhinhos de bicicleta dupla",
+      "fr": "Lapins en tandem",
+      "de": "Tandem-Häschen",
+      "vi": "Thỏ đạp xe đôi",
+      "id": "Kelinci Sepeda Tandem"
+    },
+    "category": "vehicle",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "toy_train_trip",
+    "title": {
+      "en": "Toy Train Trip",
+      "es": "Viaje en tren de juguete",
+      "pt": "Viagem de trenzinho",
+      "fr": "Voyage en petit train",
+      "de": "Spielzeugzug-Reise",
+      "vi": "Chuyến tàu đồ chơi",
+      "id": "Naik Kereta Mainan"
+    },
+    "category": "vehicle",
+    "players": 2,
+    "size": 768,
+    "stepCount": 14
+  },
+  {
+    "id": "train",
+    "title": {
+      "en": "Steam Train",
+      "es": "Tren de vapor",
+      "pt": "Trem a vapor",
+      "fr": "Train à vapeur",
+      "de": "Dampflok",
+      "vi": "Tàu hơi nước",
+      "id": "Kereta Uap"
+    },
+    "category": "vehicle",
+    "players": 1,
+    "size": 768,
+    "stepCount": 11
+  }
+]
